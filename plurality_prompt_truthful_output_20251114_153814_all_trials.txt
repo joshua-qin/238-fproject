@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Vote Choice:** Candidate C
+
+**Reasoning:** Based on the voter's political ideology and preference profile, Candidate C aligns most closely with their desire for moderate economic policies and individual liberties. Despite knowing that Candidate C cannot win due to the distribution of votes, voting truthfully for Candidate C reflects the voter's preference for breaking the two-party system and supporting a candidate who embodies their values. Voting for Candidate C also sends a message of support for moderate and independent political approaches.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Vote Choice:** Candidate C
+
+**Reasoning:** The voter's preference profile clearly prioritizes Candidate C, aligning with their preference for moderate economic policies and individual liberties. Voting truthfully for Candidate C also supports the voter's desire for breaking the two-party system. Even though Candidate C may not win, this choice reflects the voter's commitment to these values rather than voting strategically for a less preferred candidate.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Vote Choice:** Candidate C
+
+**Reasoning:** The voter's preference profile clearly prioritizes Candidate C, who aligns with their desire for moderate economic policies and targeted social programs, while maintaining individual liberties. Voting for Candidate C reflects the voter's commitment to their principles and their wish to support a candidate that emphasizes bipartisanship and breaking the two-party system. Despite the knowledge that Candidate C is unlikely to win, the voter's objective is to vote truthfully according to their preferences, making Candidate C the appropriate choice.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Vote Choice:** Candidate C
+
+**Reasoning:** According to the voter's preference profile, Candidate C aligns most closely with the voter's political ideology, emphasizing moderate economic policies and individual liberties. Although Candidate C is unlikely to win given the current vote distribution, voting truthfully for Candidate C supports the voter's desire to break the two-party system and promotes the importance of maintaining a voice for moderate policies. This decision prioritizes aligning with the voter's preferences and ideology over strategic voting.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Vote Choice:** Candidate C
+
+**Reasoning:** Based on the voter's preference profile, Candidate C aligns most closely with the desired moderate economic policies and individual liberties. Voting for Candidate C reflects the voter's support for fiscal responsibility and targeted social programs. Although Candidate C is unlikely to win given the current vote distribution, casting votes for them demonstrates a commitment to the voter's values and supports the importance of breaking the two-party system.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Vote Choice:** Candidate C
+
+**Reasoning:** Based on the voter's preference profile, Candidate C aligns most closely with their desire for moderate economic policies and support for individual liberties. Although Candidate C is unlikely to win given the current vote distribution, the voter's priority is to express their true preferences, which means casting a vote for the candidate who best represents their values. This choice also supports the voter's interest in breaking the two-party system, as Candidate C is an independent.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Vote Choice:** Candidate C
+
+**Reasoning:** The voter's preference profile indicates a strong alignment with Candidate C's moderate economic policies and focus on individual liberties and targeted social programs. Voting for Candidate C aligns with the voter's desire for a candidate who breaks the two-party dominance and emphasizes bipartisanship. Despite Candidate C not having a chance to win based on current vote counts, voting truthfully supports the voter's commitment to their principles and political ideology.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Vote Choice:** Candidate C
+
+**Reasoning:** Based on the voter's preference profile, Candidate C aligns most closely with the desired moderate economic policies and emphasis on individual liberties. Although Candidate C is unlikely to win given the current distribution of votes, voting truthfully for Candidate C reflects the voter's moderate stance and support for breaking the two-party system. This choice prioritizes the voter's ideological alignment over immediate strategic gains, as neither Candidate A nor B fully aligns with the voter's preference.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Vote Choice:** Candidate C
+
+**Reasoning:** Given the voter's preference for moderate economic policies and targeted social programs, Candidate C aligns most closely with these values. Although strategically voting for Candidate A might reduce the likelihood of Candidate B winning, the voter's instruction is to vote truthfully according to their preference profile. Therefore, voting for Candidate C best represents the voter's ideological stance and their desire for an independent voice in a predominantly two-party system.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Vote Choice:** Candidate C
+
+**Reasoning:** Based on the voter's preference profile, Candidate C aligns best with the desired moderate economic policies and emphasis on individual liberties, while also supporting targeted social programs. Although Candidate C is unlikely to win given the vote distribution, voting truthfully for Candidate C reflects the voter's commitment to moderate and independent political values, and supports the idea of breaking the two-party system. This choice is consistent with the voter's preferences, prioritizing principle over strategic voting.
+
+================================================================================
+

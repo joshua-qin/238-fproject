@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Vote Choice:** Candidate C
+
+**Reasoning:** Given my preference profile of C > A > B and the fact that Candidate B currently leads with 45 votes, I should vote for Candidate C. By casting all 20 votes for Candidate C, I can create a tie between Candidate B and Candidate C, each with 45 votes, leaving Candidate A with 35 votes. This strategic voting maximizes the chances of an outcome that aligns more closely with my moderate economic and social preferences, as Candidate C represents a centrist position that is more preferable than the other available options.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Vote Choice:** Candidate A
+
+**Reasoning:** Given that Candidate B is leading with 45 votes, strategically casting all 20 votes for Candidate C would result in B winning with 45 votes to C's 20 and A's 35. Although Candidate C aligns most closely with your preferences, they cannot win under the current circumstances. By voting for Candidate A, you can help ensure that the candidate whose policies are closer to your economic preferences, and who supports progressive social policies, has a chance to win. This decision maximizes expected utility by preventing Candidate B, whose platform least aligns with your preferences, from winning the election.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Vote Choice:** Candidate C
+
+**Reasoning:** Given my preference profile and the current vote distribution, voting for Candidate C aligns with my ideological preference for moderate economic policies. While Candidate B is currently leading with 45 votes, my block of 20 votes for Candidate C would give them a total of 20 votes, which is not enough to win. However, voting for Candidate A would still fall short of a victory as well, with a total of 55 votes against Candidate B's 45, leaving Candidate B with the majority. Therefore, voting for Candidate C upholds my preference without altering the inevitable outcome, while also promoting the idea of bipartisanship and breaking the two-party system, which aligns with my strategic objectives.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Vote Choice:** Candidate A
+
+**Reasoning:** Given that Candidate B currently leads with 45 votes, my block of 20 votes can help Candidate A reach a total of 55 votes, thereby surpassing Candidate B's 45 votes and securing a win. Although my preference is for Candidate C, who aligns more closely with my centrist economic views, they have no chance of winning with zero current votes. Strategically, voting for Candidate A will prevent Candidate B, whose policies I least align with, from winning, while also supporting some of my economic and social values due to Candidate A's platform.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Vote Choice:** Candidate A
+
+**Reasoning:** Given the current vote distribution, Candidate B is leading with 45 votes, followed by Candidate A with 35 votes, and Candidate C, whom I prefer, will not win even with my block of 20 votes. To prevent the least preferred Candidate B from winning, I will strategically vote for Candidate A. This aligns more closely with my preference for a moderate economic policy that leans towards the Democratic platform, which is preferable to the conservative policies of Candidate B.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Vote Choice:** Candidate A
+
+**Reasoning:** Given that Candidate B is leading with 45 votes, the strategic choice is to vote for Candidate A to prevent Candidate B from winning. While Candidate C aligns closest with your preferences, voting for C would not change the outcome, as they are unlikely to win with zero votes. By casting your 20 votes for Candidate A, you can ensure that they receive 55 votes, surpassing Candidate B's 45 votes, thereby maximizing the alignment with your preference for more centrist policies that lean towards the Democratic platform.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Vote Choice:** Candidate A
+
+**Reasoning:** Despite a preference for Candidate C, voting for them would not change the outcome as they have no other votes and cannot win. Candidate B is leading with 45 votes, but their policies are least aligned with my preferences. By casting all 20 votes for Candidate A, I can create a tie between Candidate A and B, which is more favorable than a win for Candidate B. This strategy aligns with my preference for more progressive policies over conservative ones, maximizing the potential for a more favorable policy outcome.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Vote Choice:** Candidate C
+
+**Reasoning:** Given the current distribution of votes, neither Candidate A nor Candidate C can win outright. However, casting all 20 votes for Candidate C will increase their total to 20, which may not surpass Candidate B's 45 but will strengthen the presence and influence of a moderate, third-party option. This aligns with the voter's preference for a centrist economic policy and supports the goal of breaking the two-party dominance, which could encourage future bipartisanship and a more balanced political landscape. Voting for Candidate C also reflects the voter's preference order and strategic objectives.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Vote Choice:** Candidate A
+
+**Reasoning:** While my preference is for Candidate C, voting for them would not change the outcome since they are not in contention to win. Therefore, I will strategically cast my block of 20 votes for Candidate A. This ensures that Candidate A will receive a total of 55 votes, surpassing Candidate B's 45 votes, and winning the election. Candidate A's platform aligns more closely with my preference for centrist but slightly progressive economic policies. By supporting Candidate A, I prevent Candidate B, whose platform is least aligned with my preferences, from winning.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Vote Choice:** Candidate A
+
+**Reasoning:** Given the current vote distribution, Candidate B is leading with 45 votes, and you have a block of 20 votes. Voting for Candidate C would not lead to a victory since they would end up with only 20 votes, far behind Candidates A and B. To prevent Candidate B, whose policies are least aligned with your preferences, from winning, the best strategic move is to cast all 20 votes for Candidate A. This would give Candidate A a total of 55 votes, surpassing Candidate B's 45, and ensuring that the candidate whose policies are most in line with your economic preferences wins.
+
+================================================================================
+

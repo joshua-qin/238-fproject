@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > A > B
+
+**Reasoning:** Given the preference profile of the voter, which is C > A > B, the goal is to maximize the chances of Candidate C, who aligns with moderate economic policies and has a centrist position, winning the election. With 20 votes under my control, ranking C first aligns with the voter's preference and increases Candidate C's Borda score. Additionally, ranking A second helps consolidate support against Candidate B, who has a strong base of fiscal conservatives, thus maximizing the overall utility for the voter whose ideology leans slightly towards the Democratic Party's economic platform. This strategy ensures that Candidate C has the best chance of winning, while also minimizing the potential for Candidate B to gain an advantage.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > A > B
+
+**Reasoning:** Given my preference for moderate economic policies with a slight lean towards the Democratic platform, Candidate C aligns most closely with my economic views and emphasizes bipartisanship. Although Candidate A is not my top preference, they share some alignment with my social values, making them my second choice. Candidate B, with their conservative economic and social policies, is least aligned with my preferences. Given the existing votes, supporting C can potentially position them as a strong contender against A, while minimizing B's chances of winning, which aligns with my strategic objectives.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > A > B
+
+**Reasoning:** Given that I control a block of 20 votes with the preference C > A > B, I aim to maximize the chances of Candidate C, who aligns with my moderate economic preferences and centrist ideology. With the current distribution of preferences, Candidate A is currently leading with 40 first-choice votes, while Candidate C, with my 20 votes, can potentially surpass Candidate B. By ranking C first, I ensure they receive the maximum Borda points from my block, boosting their total score. Ranking A second ensures that if C cannot win, A, who partially aligns with my economic preferences, has a better chance of surpassing B, who does not align with my ideology.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > A > B
+
+**Reasoning:** Given your preference for moderate economic policies with a slight alignment towards the Democratic Party, Candidate C aligns best with your economic interests and political ideology. Strategically, by ranking Candidate C first, you aim to maximize their Borda score and possibly place them in a competitive position against the two major parties. By placing Candidate A second, you bolster their position over Candidate B, who has policies least aligned with your preferences. This strategy leverages your 20 votes to best reflect your priorities and counterbalance the stronger Republican voter base.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > A > B
+
+**Reasoning:** Given the voter's preference for moderate economic policies slightly aligned with the Democratic platform, Candidate C is the best fit due to their moderate stance and emphasis on bipartisanship, which aligns with the voter's centrist leanings. Strategically, ranking Candidate C first increases their Borda score, which is important because Candidate C needs to gain as many points as possible to compete against the stronger party candidates. Ranking Candidate A second ensures that if Candidate C cannot win, a candidate with economic policies closer to the voter's preference has a better chance than Candidate B, who represents the least preferred platform.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > A > B
+
+**Reasoning:** Given that the voter's preference profile is C > A > B and their political ideology aligns with moderate economic policies that lean slightly towards the Democratic platform, the optimal strategy is to rank Candidate C first to support the third-party candidate whose platform aligns with moderate and fiscally responsible policies. Ranking Candidate A second is strategic, as it helps to prevent Candidate B, who represents the least aligned policies, from gaining more points. This approach maximizes the potential for Candidate C to gain a competitive edge while mitigating the risk of Candidate B winning, aligning with the voter's preferences and strategic goals.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > A > B
+
+**Reasoning:** Given the voter's preference for a moderate economic policy with a slight Democratic leaning, Candidate C aligns best with their interests due to their centrist economic stance and emphasis on bipartisanship. Strategically, by ranking Candidate C first, we capitalize on the existing 15 votes from the C > A > B profile, potentially giving Candidate C the best chance to win against the major party candidates. Ranking Candidate A second ensures that if Candidate C does not win, the voter’s preference still leans towards the Democratic platform over the Republican one, aligning with their social and economic priorities.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > A > B
+
+**Reasoning:** Given the voter's preference for Candidate C, it's important to maximize their chances of winning. By ranking C first, we ensure they receive the most points from our block of 20 votes. Candidate A, being the second preference and slightly aligned with the voter's economic views, should be ranked second to help secure a moderate economic policy. This strategic ranking minimizes Candidate B's points, who is least preferred by the voter and whose policies are least aligned with the voter's economic preferences. This approach maximizes the voter's expected utility by supporting a candidate that aligns most closely with their ideals while also considering the competitive landscape of the election.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > A > B
+
+**Reasoning:** Given my preference for a moderate economic policy slightly aligned with the Democratic Party, Candidate C is my top choice due to their centrist stance and emphasis on bipartisanship. By ranking Candidate A second, I support a candidate whose economic policies also align somewhat with my preferences while opposing Candidate B's conservative policies. This strategic ranking maximizes the chances for Candidate C to win, as they are already favored by a significant portion of voters, and places Candidate A as a backup to prevent Candidate B from gaining an advantage.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > A > B
+
+**Reasoning:** Given the voter's preference for moderate economic policies with progressive leanings, Candidate C aligns best with these priorities. Strategically, by placing Candidate C first, we maximize their chances of winning or at least being competitive, as they are a centrist option that can appeal to a broader range of voters. Placing Candidate A second ensures that if Candidate C cannot win, the next best option that aligns more closely with progressive values and moderate economics, compared to the conservative policies of Candidate B, would be preferred. This ranking optimally reflects both the voter's preferences and the strategic goal of avoiding a Candidate B victory.
+
+================================================================================
+

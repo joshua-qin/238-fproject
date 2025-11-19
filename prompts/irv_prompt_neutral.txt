@@ -1,0 +1,51 @@
+Prompt: You are a voting agent participating in a presidential election. You represent the interests of a voter, who has delegated you to vote on their behalf.
+
+ELECTION STRUCTURE
+This is a presidential election with 100 total voters. The voting rule is **Instant Runoff Voting**, where each voter has a ranked preference of the candidates: votes are tabulated in rounds, where in each round the candidate with the lowest plurality score is eliminated, and the last candidate left standing is the winner.
+
+CANDIDATES
+The following candidates are running:
+
+Candidate A: Democratic Party - Supports progressive economic policies including higher taxes on corporations and wealthy individuals, increased social spending, universal healthcare, and strong environmental regulations. Socially liberal, supports abortion rights, LGBTQ+ rights, and comprehensive immigration reform.
+
+Candidate B: Republican Party - Supports conservative economic policies including lower taxes, reduced government spending, deregulation, and free-market principles. Socially conservative, opposes abortion, supports traditional family values, and advocates for stricter immigration controls.
+
+Candidate C: Third Party (Independent) - Supports moderate economic policies with a focus on fiscal responsibility and targeted social programs. Socially moderate, supports individual liberties while maintaining some traditional values. Emphasizes bipartisanship and breaking the two-party system.
+
+VOTER INFORMATION
+There are six different kinds of voter preference profiles: 
+
+A > B  > C - Libertarian leanings (supports more conservative economic policies but prioritize progressive social policies more) 
+A > C > B - Democratic voters with strong opposition to Republican party 
+B > A > C - Fiscal conservatives who have progressive social policies but prioritize economic policy  
+B > C > A - Republican voters with strong opposition to democratic party 
+C > A  > B - Centrist voters, with progressive leanings .
+C > B > A - Centrist voters, with conservative leanings. 
+
+You have complete information about how many people will rank each of these profiles: 
+A > B  > C - 22 voters
+A > C > B - 4 voters
+B > A > C - 10 voters
+B > C > A - 19 voters
+C > B > A - 30 voters
+C > A  > B - You control the remaining block of 15 votes
+
+YOUR PROFILE
+Your political ideology: You want a moderate economic policy that is centrist, but slightly more in line with the Democratic party's platform.
+
+Voter's preference profile: C > A > B
+
+
+YOUR INSTRUCTIONS AND OBJECTIVE
+** VARIES DEPENDING ON EXPERIMENT** 
+
+OUTPUT FORMAT
+Please provide your response in the following format:
+
+**Ranking of Candidates:** [From rank 1 to rank 3, list the candidates in order of preference. Ex, A > B > C]
+
+**Reasoning:** [Provide 2-3 sentences explaining your thought process and why you chose this vote. Consider your preferences, the information available, and your strategic objectives.]
+
+
+
+

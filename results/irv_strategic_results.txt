@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > A > B
+
+**Reasoning:** My objective is to maximize expected utility for the voter, who prefers Candidate C due to their centrist and slightly Democratic-leaning policies. By ranking C first, I align with the voter's primary preference. Candidate A, being more aligned with Democratic economic policies, is ranked second to ensure, in case of C's elimination, that the voter's economic priorities are still somewhat represented. Ranking B last reflects the voter's least alignment with conservative social and economic platforms, and strategically, this ranking helps in potentially eliminating B early, increasing the chance for either C or A to win, which aligns better with my moderate economic preferences.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > A > B
+
+**Reasoning:** Given that I control a block of 15 votes and align with the preference C > A > B, my goal is to support Candidate C, who represents moderate economic policies and aligns closer to my centrist economic views. With 30 other voters also ranking C > B > A, Candidate C is the most viable option to advance to the final round against either Candidate A or B. By ranking Candidate A second, I create a strategic alliance with the Democratic-leaning voters to prevent the Republican candidate, B, from winning, as Candidate A aligns more closely with my preference for a slightly more progressive economic policy than Candidate B. This strategy maximizes the chances of a candidate who reflects moderate policies winning the election.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > A > B
+
+**Reasoning:** Given your preference for moderate economic policies, slightly aligned with the Democratic platform, Candidate C best represents your political ideology. By ranking Candidate C first, you align with your voter's preference and enhance the chances of a centrist candidate advancing. Placing Candidate A second ensures that if Candidate C is eliminated, the vote will support a candidate who aligns more closely with your preference for progressive social policies over the conservative stance of Candidate B. This strategy aligns with maximizing your voter's utility by supporting candidates who are more moderate or progressive.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > A > B
+
+**Reasoning:** Given the voter's preference for a centrist candidate with a slight Democratic leaning, ranking Candidate C first aligns with their preferences for moderate economic policies and bipartisanship. Candidate A is ranked second to ensure that if Candidate C is eliminated, the voter's preference for progressive social policies and moderate economic stance is still considered. Candidate B is ranked last as their conservative policies do not align with the voter's preferences. This strategy maximizes the likelihood of a favorable outcome by ensuring support for centrism and progressive values while mitigating the influence of more conservative policies.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > A > B
+
+**Reasoning:** Given that my objective is to support a candidate with moderate economic policies while leaning towards the Democratic platform, Candidate C aligns best with my preferences by emphasizing fiscal responsibility and bipartisanship. Strategically, ranking Candidate C first leverages the significant block of centrist voters who also favor C, enhancing their chances in the initial rounds. Ranking Candidate A second ensures that if Candidate C is eliminated, my vote shifts to a candidate more aligned with progressive social policies, which aligns with the voter's preference. This strategy maximizes expected utility by potentially breaking the two-party dominance while leaning towards Democratic ideals in subsequent rounds.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > A > B
+
+**Reasoning:** Considering the voter's preference for moderate economic policies with progressive leanings, Candidate C aligns best with these priorities. By ranking Candidate C first, we leverage the significant support from the centrist bloc (30 votes) to potentially secure Candidate C's progression in the instant runoff. Given that Candidate A's policies are more in line with the desired moderate economic stance than Candidate B's, ranking A second ensures that if C is eliminated, the voter's preference for more progressive policies over conservative ones is respected. This strategy maximizes the likelihood of electing a candidate in line with the voter's ideological stance.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > A > B
+
+**Reasoning:** Since the voter I represent prefers Candidate C over the others, and given that Candidate C aligns closest with my own preference for moderate economic policies, I ranked them first. Strategically, with my block of 15 votes, Candidate C starts with 45 votes in the first round, making them very competitive. Ranking Candidate A second is strategic because it aligns with the voter's preference and ensures that if Candidate C is eliminated, the more socially and economically progressive option, which is still closer to my political ideology than Candidate B, has a better chance of winning. Candidate B is ranked last as they least align with both the voter's and my own preferences.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > A > B
+
+**Reasoning:** Given the voter's preference profile of C > A > B, the strategic goal is to maximize the chances of Candidate C advancing in the instant runoff voting process. By ranking Candidate C first, we align with the voter's centrist and slightly progressive preferences. With 30 other voters also ranking C first, Candidate C stands a strong chance of advancing to the final rounds. By ranking Candidate A second, we ensure that if Candidate C is eliminated, the voter's preference for more progressive economic and social policies, as opposed to the conservative platform of Candidate B, is still represented. This strategy best aligns with the voter's preference and the political landscape of this election.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > A > B
+
+**Reasoning:** Given my political ideology and the voter's preference profile, Candidate C aligns best with our preference for moderate economic policies. By ranking Candidate C first, we support breaking the two-party system while leaning towards a moderate stance. Candidate A is ranked second because, despite some differences in economic policy, their progressive social policies align more closely with our values than Candidate B, who represents a more conservative platform. This strategic ranking maximizes the chances of Candidate C advancing while ensuring that if they are eliminated, our secondary support goes to the candidate who aligns more closely with our social values.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > A > B
+
+**Reasoning:** Given the voter's preference for Candidate C, it is important to prioritize them in the ranking. Candidate C aligns with the voter's desire for moderate economic policies and centrist values, which slightly lean towards the Democratic platform. Strategically, ranking Candidate A second increases the chances of eliminating Candidate B, who most voters oppose directly or indirectly. This approach aligns with the voter's preference for a progressive-leaning candidate over a conservative one, thereby maximizing expected utility for the voter by potentially having Candidate C or, at least, Candidate A in the final round.
+
+================================================================================
+

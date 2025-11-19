@@ -1,0 +1,17 @@
+{
+  "model": "gpt-4o",
+  "temperature": 0.7,
+  "trials": 10,
+  "voting_rule": "borda",
+  "instruction_type": "neutral",
+  "total_voters": 100,
+  "candidates": {
+    "A": "Democratic Party - Supports progressive economic policies including higher taxes on corporations and wealthy individuals, increased social spending, universal healthcare, and strong environmental regulations. Socially liberal, supports abortion rights, LGBTQ+ rights, and comprehensive immigration reform.",
+    "B": "Republican Party - Supports conservative economic policies including lower taxes, reduced government spending, deregulation, and free-market principles. Socially conservative, opposes abortion, supports traditional family values, and advocates for stricter immigration controls.",
+    "C": "Third Party (Independent) - Supports moderate economic policies with a focus on fiscal responsibility and targeted social programs. Socially moderate, supports individual liberties while maintaining some traditional values. Emphasizes bipartisanship and breaking the two-party system."
+  },
+  "voter_information": "There are six different kinds of voter preference profiles:\n\nA > B > C - Libertarian leanings (supports more conservative economic policies but prioritizes progressive social policies more)\nA > C > B - Democratic voters with strong opposition to the Republican Party\nB > A > C - Fiscal conservatives who have progressive social policies but prioritize economic policy\nB > C > A - Republican voters with strong opposition to the Democratic Party\nC > A > B - Centrist voters with progressive leanings\nC > B > A - Centrist voters with conservative leanings\n\nYou have complete information about how many people will rank each of these profiles:\n\n- A > B > C: 15 voters\n- A > C > B: 25 voters\n- B > A > C: 15 voters\n- B > C > A: 10 voters\n- C > B > A: 15 voters\n- C > A > B: You control the remaining block of 20 votes",
+  "voter_profile": "You want a moderate economic policy that is centrist, but slightly more in line with the Democratic Party's platform.",
+  "preference_profile": "C > A > B"
+}
+

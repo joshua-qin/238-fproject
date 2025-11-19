@@ -7,8 +7,8 @@ import argparse
 import json
 import os
 from datetime import datetime
-from prompt_template import generate_prompt, VOTING_RULE_DESCRIPTIONS, INSTRUCTION_TYPES
-from run_prompt import call_gpt, run_trials, ensure_directories, RESULTS_DIR
+from .prompt_template import generate_prompt, VOTING_RULE_DESCRIPTIONS, INSTRUCTION_TYPES
+from .llm_utils import call_gpt, run_trials, ensure_directories, RESULTS_DIR, setup_logger
 
 
 def load_config(config_file):
@@ -192,6 +192,11 @@ Examples:
     save_config(config, config_file)
     print(f"Configuration saved to: {config_file}")
     
+    # Set up logging for LLM queries
+    log_file = os.path.join(RESULTS_DIR, f"{output_base}_llm_queries.log")
+    logger = setup_logger(log_file)
+    print(f"LLM query logging enabled: {log_file}")
+    
     # Run trials
     print(f"\nUsing model: {config.get('model', 'gpt-4o')}")
     print(f"Temperature: {config.get('temperature', 0.7)}")
@@ -204,7 +209,8 @@ Examples:
         config.get('model', 'gpt-4o'),
         config.get('temperature', 0.7),
         config.get('trials', 1),
-        output_base
+        output_base,
+        logger
     )
     
     # Print summary

@@ -31,8 +31,8 @@ You have complete information about how many people will rank each of these prof
 
 - A > B > C: 15 voters
 - A > C > B: 25 voters
-- B > A > C: 10 voters
-- B > C > A: 15 voters
+- B > A > C: 15 voters
+- B > C > A: 10 voters
 - C > B > A: 15 voters
 - C > A > B: You control the remaining block of 20 votes
 

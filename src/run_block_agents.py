@@ -122,6 +122,19 @@ Examples:
         help='Output file path (default: auto-generated)'
     )
     
+    # Reasoning API
+    parser.add_argument(
+        '--use-reasoning',
+        action='store_true',
+        help='Use the reasoning API (client.responses.create)'
+    )
+    parser.add_argument(
+        '--reasoning-effort',
+        choices=['none', 'low', 'medium', 'high'],
+        default='high',
+        help='Reasoning effort level when using reasoning API (default: high)'
+    )
+    
     args = parser.parse_args()
     
     # Load config from file if provided
@@ -204,13 +217,22 @@ Examples:
     print(f"Voting rule: {config['voting_rule']}")
     print(f"Instruction type: {config['instruction_type']}")
     
+    # Get reasoning parameters from config or command line (command line takes precedence)
+    use_reasoning = args.use_reasoning if args.use_reasoning else config.get('use_reasoning', False)
+    reasoning_effort = args.reasoning_effort if args.reasoning_effort else config.get('reasoning_effort', 'high')
+    
+    if use_reasoning:
+        print(f"Using reasoning API with effort: {reasoning_effort}")
+    
     outputs = run_trials(
         prompt,
         config.get('model', 'gpt-4o'),
         config.get('temperature', 0.7),
         config.get('trials', 1),
         output_base,
-        logger
+        logger,
+        use_reasoning=use_reasoning,
+        reasoning_effort=reasoning_effort
     )
     
     # Print summary

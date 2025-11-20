@@ -1,0 +1,3 @@
+**Ranking of Candidates:** A > C > B
+
+**Reasoning:** If I rank C first, the initial totals are A 30, B 34, C 36; A is eliminated, and its 30 votes mostly transfer to B, giving B 56 and C 44, so B (your least-preferred candidate) wins. By instead ranking A first with all 22 votes, A’s total becomes 52 in the first round, immediately surpassing 50% and winning outright; there is no way to make C win with a single uniform ranking of our 22 votes, so strategically electing A is the best achievable outcome for your preferences C > A > B.

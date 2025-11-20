@@ -1,0 +1,29 @@
+Results from 3 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > B > A  
+
+**Reasoning:**  
+Given the other 80 voters’ preferences, Candidate A is ahead, and if we vote sincerely as C > A > B, A still wins under Borda count. By ranking C > B > A with all 20 ballots, we give C the maximum possible points while giving A none; this flips the outcome so that C wins (C: 105, B: 100, A: 95), delivering your top-choice candidate instead of your second-best. This slightly misrepresents your second vs. third preference, but it best serves your core interest of electing the centrist-leaning Candidate C.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > B > A
+
+**Reasoning:** With the current 80 fixed voters, A is leading in Borda points and C is in third place. If our 20-vote block votes sincerely (C > A > B), A still wins; but if we vote C > B > A, C’s score rises enough and A’s falls enough that C narrowly wins the election (C: 105, B: 100, A: 95). Since your true favorite is C and C best matches your moderate, slightly Democratic-leaning preferences, this strategic ranking most effectively secures your top-choice candidate.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** C > B > A
+
+**Reasoning:**  
+If you vote sincerely as C > A > B, the final Borda scores would be A = 115, C = 105, B = 80, so A would win and your favorite candidate C would lose. By instead voting C > B > A, the final scores become C = 105, B = 100, A = 95, which makes C the winner while still preventing your least-preferred candidate B from overtaking C. This strategic ranking best serves your top preference for the centrist, slightly left-leaning Candidate C.
+
+================================================================================
+

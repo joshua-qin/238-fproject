@@ -40,7 +40,7 @@ def setup_logger(log_file_path):
     return logger
 
 
-def call_gpt(prompt, model, temperature=0.7, logger=None, query_id=None):
+def call_gpt(prompt, model, temperature=0.7, logger=None, query_id=None, use_reasoning=False, reasoning_effort="high"):
     """
     Call GPT model with the given prompt and log the query.
     
@@ -50,6 +50,8 @@ def call_gpt(prompt, model, temperature=0.7, logger=None, query_id=None):
         temperature: Temperature for generation
         logger: Optional logger instance
         query_id: Optional identifier for this query (e.g., "Trial1_Agent5")
+        use_reasoning: If True, use the reasoning API (client.responses.create)
+        reasoning_effort: Reasoning effort level ("none", "low", "medium", "high")
     
     Returns:
         Response content from GPT
@@ -64,18 +66,52 @@ def call_gpt(prompt, model, temperature=0.7, logger=None, query_id=None):
         logger.info(f"{'='*80}")
         logger.info(f"Model: {model}")
         logger.info(f"Temperature: {temperature}")
+        if use_reasoning:
+            logger.info(f"Reasoning effort: {reasoning_effort}")
         logger.info(f"\nPROMPT:\n{prompt}")
         logger.info(f"\n{'='*80}\n")
     
     try:
-        response = client.chat.completions.create(
-            model=model,
-            messages=[
-                {"role": "user", "content": prompt}
-            ],
-            temperature=temperature
-        )
-        result = response.choices[0].message.content
+        if use_reasoning:
+            # Use reasoning API
+            response = client.responses.create(
+                model=model,
+                input=prompt,
+                reasoning={
+                    "effort": reasoning_effort
+                }
+            )
+            # Extract the response - reasoning API returns a Response object with output attribute
+            # Response structure: response.output = [ResponseReasoningItem, ResponseOutputMessage, ...]
+            # The output message has content list with ResponseOutputText items containing text
+            result = None
+            output_list = getattr(response, 'output', None)
+            if output_list and isinstance(output_list, list):
+                for item in output_list:
+                    # Look for message type items (output messages)
+                    item_type = getattr(item, 'type', None)
+                    if item_type == 'message':
+                        content = getattr(item, 'content', None)
+                        if isinstance(content, list) and len(content) > 0:
+                            # Get text from first content item
+                            first_content = content[0]
+                            text = getattr(first_content, 'text', None)
+                            if text:
+                                result = text
+                                break
+            # Fallback to string representation if extraction failed
+            if result is None:
+                result = str(response)
+        else:
+            # Use standard chat completions API
+            response = client.chat.completions.create(
+                model=model,
+                messages=[
+                    {"role": "user", "content": prompt}
+                ],
+                temperature=temperature
+            )
+            result = response.choices[0].message.content
         
         # Log the response
         if logger:
@@ -90,7 +126,7 @@ def call_gpt(prompt, model, temperature=0.7, logger=None, query_id=None):
         raise Exception(error_msg)
 
 
-def run_trials(prompt_text, model, temperature, num_trials, output_base, logger=None):
+def run_trials(prompt_text, model, temperature, num_trials, output_base, logger=None, use_reasoning=False, reasoning_effort="high"):
     """
     Run multiple trials and save all outputs.
     
@@ -101,6 +137,8 @@ def run_trials(prompt_text, model, temperature, num_trials, output_base, logger=
         num_trials: Number of trials to run
         output_base: Base name for output files
         logger: Optional logger instance
+        use_reasoning: If True, use the reasoning API
+        reasoning_effort: Reasoning effort level ("none", "low", "medium", "high")
     
     Returns:
         List of outputs
@@ -113,7 +151,7 @@ def run_trials(prompt_text, model, temperature, num_trials, output_base, logger=
         print(f"\nTrial {trial}/{num_trials}...")
         query_id = f"Trial{trial}"
         try:
-            output = call_gpt(prompt_text, model, temperature, logger, query_id)
+            output = call_gpt(prompt_text, model, temperature, logger, query_id, use_reasoning, reasoning_effort)
             outputs.append(output)
         except Exception as e:
             print(f"Error in trial {trial}: {e}")

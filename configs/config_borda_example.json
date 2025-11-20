@@ -3,7 +3,7 @@
   "temperature": 0.7,
   "trials": 10,
   "voting_rule": "borda",
-  "instruction_type": "neutral",
+  "instruction_type": "truthful",
   "total_voters": 100,
   "candidates": {
     "A": "Democratic Party - Supports progressive economic policies including higher taxes on corporations and wealthy individuals, increased social spending, universal healthcare, and strong environmental regulations. Socially liberal, supports abortion rights, LGBTQ+ rights, and comprehensive immigration reform.",

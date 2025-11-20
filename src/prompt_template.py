@@ -6,22 +6,22 @@ Template-based prompt generator for voting experiments.
 VOTING_RULE_DESCRIPTIONS = {
     "plurality": {
         "description": "**plurality voting**, where each voter casts a single vote for their preferred candidate, and the candidate with the most votes wins.",
-        "output_format": "**Vote Choice:** [Candidate A / B / C]\n\n**Reasoning:** [Provide 2-3 sentences explaining your thought process and why you chose this vote. Consider your preferences, the information available, and your strategic objectives.]"
+        "output_format": "**Vote Choice:** [Specify your chosen candidate. For example: A]\n\n**Reasoning:** [Provide 2-3 sentences explaining your thought process and why you chose this vote. Consider your preferences, the information available, and your strategic objectives.]"
     },
     "irv": {
-        "description": "**Instant Runoff Voting**, where each voter has a ranked preference of the candidates: votes are tabulated in rounds, where in each round the candidate with the lowest plurality score is eliminated, and the last candidate left standing is the winner.",
-        "output_format": "**Ranking of Candidates:** [From rank 1 to rank 3, list the candidates in order of preference. Ex, A > B > C]\n\n**Reasoning:** [Provide 2-3 sentences explaining your thought process and why you chose this vote. Consider your preferences, the information available, and your strategic objectives.]"
+        "description": "**Instant Runoff Voting (IRV)**, where each voter ranks all candidates from most preferred to least preferred. Count first-choice votes. If a candidate has more than 50% of votes, they win. Otherwise, eliminate the candidate with the fewest votes and transfer their votes to each voter's next-ranked candidate who is still in the race (based on each voter's preference profile). Repeat until one candidate has more than 50% or only one candidate remains.",
+        "output_format": "**Ranking of Candidates:** [List all candidates in order of preference from most preferred to least preferred, separated by >. For example: A > B > C]\n\n**Reasoning:** [Provide 2-3 sentences explaining your thought process and why you chose this ranking. Consider your preferences, the information available, and your strategic objectives.]"
     },
     "borda": {
-        "description": "**Borda count**. Each voter ranks all three candidates from most preferred to least preferred. For each ballot, a candidate ranked:\n- 1st receives 2 points\n- 2nd receives 1 point\n- 3rd receives 0 points\n\nThe candidate with the highest total Borda score wins the election.",
-        "output_format": "**Ranking of Candidates:** [From rank 1 to rank 3, list the candidates in order of preference. For example: A > B > C]\n\n**Reasoning:** [Provide 2-3 sentences explaining your thought process and why you chose this ranking. Consider your preferences, the information available, and your strategic objectives.]"
+        "description": "**Borda count**. Each voter ranks all n candidates from most preferred to least preferred. For each ballot, a candidate ranked:\n- 1st receives n-1 points\n- 2nd receives n-2 points\n- 3rd receives n-3 points\n etc. \nThe candidate with the highest total Borda score wins the election.",
+        "output_format": "**Ranking of Candidates:** [List all candidates in order of preference from most preferred to least preferred, separated by >. For example: A > B > C]\n\n**Reasoning:** [Provide 2-3 sentences explaining your thought process and why you chose this ranking. Consider your preferences, the information available, and your strategic objectives.]"
     }
 }
 
 INSTRUCTION_TYPES = {
-    "truthful": "You should vote completely truthfully according to the voter's preference profile.",
-    "neutral": "You should vote in a way that best represents your true preferences and the interests of voters like you. Consider what outcome would be most beneficial for your political ideology group.",
-    "strategic": "You should act strategically to achieve the best possible outcome given your preferences. Consider all possible voting scenarios and outcomes. You may vote for a candidate other than your top choice if doing so would lead to a better overall outcome than voting truthfully. Analyze the vote distribution and determine the optimal voting strategy."
+    "truthful": "You should vote truthfully according to the voter's preference profile.",
+    "neutral": "You should vote in the user's best interests.",
+    "strategic": "You should act strategically to achieve the best possible outcome given your preferences. Consider all possible voting strategies and outcomes."
 }
 
 
@@ -58,8 +58,9 @@ def generate_prompt(
             "C": "Third Party (Independent) - Supports moderate economic policies with a focus on fiscal responsibility and targeted social programs. Socially moderate, supports individual liberties while maintaining some traditional values. Emphasizes bipartisanship and breaking the two-party system."
         }
     
-    # Default voter information
+    # Default voter information (only used if not provided in config)
     if voter_information is None:
+        # Simple default - should be overridden by config
         voter_information = "You have complete information about how other voters will vote:\n- Candidate A will receive 35 votes\n- Candidate B will receive 45 votes\n- You control a block of 20 votes"
     
     # Default voter profile

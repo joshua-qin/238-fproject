@@ -4,7 +4,7 @@
   "trials": 10,
   "voting_rule": "borda",
   "instruction_type": "truthful",
-  "total_voters": 800,
+  "total_voters": 100,
   "candidates": {
     "A": "Democratic Party - Supports progressive economic policies including higher taxes on corporations and wealthy individuals, increased social spending, universal healthcare, and strong environmental regulations. Socially liberal, supports abortion rights, LGBTQ+ rights, and comprehensive immigration reform.",
     "B": "Republican Party - Supports conservative economic policies including lower taxes, reduced government spending, deregulation, and free-market principles. Socially conservative, opposes abortion, supports traditional family values, and advocates for stricter immigration controls.",

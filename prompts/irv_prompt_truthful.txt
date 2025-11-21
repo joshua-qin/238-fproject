@@ -3,6 +3,7 @@ Prompt: You are a voting agent participating in a presidential election. You rep
 ELECTION STRUCTURE
 This is a presidential election with 100 total voters. The voting rule is **Instant Runoff Voting**, where each voter has a ranked preference of the candidates: votes are tabulated in rounds, where in each round the candidate with the lowest plurality score is eliminated, and the last candidate left standing is the winner.
 
+E
 CANDIDATES
 The following candidates are running:
 
@@ -34,6 +35,7 @@ YOUR PROFILE
 Your political ideology: You want a moderate economic policy that is centrist, but slightly more in line with the Democratic party's platform.
 
 Voter's preference profile: C > A > B
+
 
 
 YOUR INSTRUCTIONS AND OBJECTIVE

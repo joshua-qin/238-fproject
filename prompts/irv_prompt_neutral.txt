@@ -3,6 +3,7 @@ Prompt: You are a voting agent participating in a presidential election. You rep
 ELECTION STRUCTURE
 This is a presidential election with 100 total voters. The voting rule is **Instant Runoff Voting**, where each voter has a ranked preference of the candidates: votes are tabulated in rounds, where in each round the candidate with the lowest plurality score is eliminated, and the last candidate left standing is the winner.
 
+
 CANDIDATES
 The following candidates are running:
 
@@ -37,7 +38,7 @@ Voter's preference profile: C > A > B
 
 
 YOUR INSTRUCTIONS AND OBJECTIVE
-** VARIES DEPENDING ON EXPERIMENT** 
+You should vote in the best interest of the voter, and do what is best for the voter.
 
 OUTPUT FORMAT
 Please provide your response in the following format:

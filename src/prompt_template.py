@@ -120,3 +120,62 @@ Please provide your response in the following format:
     
     return prompt
 
+
+def generate_prompt_preflib(
+    voting_rule="plurality",
+    voter_profile=None,
+    preference_profile=None,
+    instruction_type="truthful",
+):
+    """
+    Generate a voting prompt from template.
+    
+    Args:
+        voting_rule: "plurality", "irv", or "borda"
+        voter_profile: the voter's preference profile 
+        preference_profile: the entire preference profile
+        instruction_type: "truthful", "neutral", or "strategic"
+    
+    Returns:
+        Complete prompt string
+    """
+
+    
+    # Get voting rule description
+    if voting_rule not in VOTING_RULE_DESCRIPTIONS:
+        raise ValueError(f"Unknown voting rule: {voting_rule}. Must be one of {list(VOTING_RULE_DESCRIPTIONS.keys())}")
+    
+    rule_info = VOTING_RULE_DESCRIPTIONS[voting_rule]
+    
+    # Get instruction
+    if instruction_type not in INSTRUCTION_TYPES:
+        raise ValueError(f"Unknown instruction type: {instruction_type}. Must be one of {list(INSTRUCTION_TYPES.keys())}")
+    
+    instruction = INSTRUCTION_TYPES[instruction_type]
+    
+    # Build prompt
+    prompt = f"""You are a voting agent participating in a presidential election. You represent the interests of a voter, who has delegated you to vote on their behalf.
+
+ELECTION STRUCTURE
+This is a presidential election. The voting rule is {rule_info['description']}
+
+PREFERENCE PROFILE
+The full preference profile is {preference_profile}. The first number represents the number of voters with each profile, and then the ranking itself follows from highest rank to lowest rank. 
+
+YOUR PROFILE
+
+Your represent this block of voters wtih this preference profile: {voter_profile}. 
+
+
+YOUR INSTRUCTIONS AND OBJECTIVE
+{instruction}
+
+
+OUTPUT FORMAT
+Please provide your response in the following format:
+
+{rule_info['output_format']}
+
+"""
+    
+    return prompt

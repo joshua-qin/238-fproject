@@ -1,0 +1,18 @@
+# FILE NAME: test_manipulable.soc
+# TITLE: Simple Manipulable Election
+# DESCRIPTION: Test case with known strategic voting opportunities
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2024-01-01
+# MODIFICATION DATE: 2024-01-01
+# NUMBER ALTERNATIVES: 3
+# NUMBER VOTERS: 15
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: A
+# ALTERNATIVE NAME 2: B
+# ALTERNATIVE NAME 3: C
+6: 1,2,3
+5: 2,3,1
+4: 3,1,2

@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 3 > 1  
+
+**Reasoning:** I am representing Block 2, whose sincere preference order is candidate 2 as most preferred, followed by candidate 3, and candidate 1 as least preferred. Under the instructions to vote truthfully, I submit exactly this ranking so that, at each stage of the Instant Runoff Voting process, my delegated voter’s preferences are accurately reflected.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 3 > 1
+
+**Reasoning:** I represent Block 2, whose sincere preference order is candidate 2 first, then candidate 3, then candidate 1. Under Instant Runoff Voting, ranking candidates truthfully best reflects this voter’s priorities, ensuring that if candidate 2 is eliminated, their support flows next to candidate 3 rather than candidate 1.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 3 > 1  
+
+**Reasoning:** I am representing Block 2, whose sincere preference order is candidate 2 first, then candidate 3, then candidate 1. Under Instant Runoff Voting and given the instruction to vote truthfully, I should submit this exact ranking to best reflect the voter’s true preferences.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 3 > 1  
+
+**Reasoning:** I represent Block 2, which has the preference ordering [2, 3, 1], so I must submit that exact truthful ranking. Candidate 2 is placed first as the most preferred, followed by candidate 3, and candidate 1 is ranked last in accordance with the delegated voter’s expressed preferences.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 3 > 1  
+
+**Reasoning:** I am representing Block 2 voters, whose sincere preference order is candidate 2 as most preferred, then candidate 3, and finally candidate 1. Under the given instructions, I must vote truthfully rather than strategically, so I directly submit this ranking to reflect the voters’ true priorities.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 3 > 1
+
+**Reasoning:** I represent Block 2, whose sincere preference ordering is candidate 2 first, then 3, then 1. Under Instant Runoff Voting, I follow this ranking truthfully, listing candidate 2 as the top choice, then 3 as the backup if 2 is eliminated, and placing 1 last, in line with the voter’s delegated preferences.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 3 > 1
+
+**Reasoning:** I represent Block 2, whose sincere preference order is candidate 2 first, then candidate 3, then candidate 1. Under Instant Runoff Voting, rankings can affect later rounds, but my instructions are to vote truthfully, so I report the exact preference ordering [2, 3, 1] without strategic alteration.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 3 > 1  
+
+**Reasoning:** I am instructed to vote truthfully according to the preference profile of Block 2, which ranks candidate 2 first, then 3, then 1. Under Instant Runoff Voting, ranking candidates honestly in this order best reflects these voters' true preferences while still allowing their support to transfer to their next choice if their top candidate is eliminated.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 3 > 1
+
+**Reasoning:** I represent Block 2, whose truthful preference ordering is candidate 2 first, then candidate 3, and finally candidate 1. Under Instant Runoff Voting, you are allowed (and encouraged) to rank sincerely, since lower-ranked choices are only considered if higher-ranked ones are eliminated, so this ranking best reflects your preferences without harming your top choice.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 3 > 1  
+
+**Reasoning:** I am representing Block 2, whose true preference ordering is candidate 2 as most preferred, then candidate 3, and finally candidate 1. Under Instant Runoff Voting, ranking candidates truthfully best reflects these preferences, ensuring that if candidate 2 is eliminated, support is transferred next to candidate 3 rather than candidate 1.
+
+================================================================================
+

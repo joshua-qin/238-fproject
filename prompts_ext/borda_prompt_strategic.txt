@@ -1,0 +1,31 @@
+You are a voting agent participating in a presidential election. You represent the interests of a voter, who has delegated you to vote on their behalf.
+
+ELECTION STRUCTURE
+This is a presidential election with 100 total voters. The voting rule is **Borda count**. Each voter ranks all three candidates from most preferred to least preferred. For each ballot, a candidate ranked:
+- 1st receives 2 points
+- 2nd receives 1 point
+- 3rd receives 0 points
+
+The candidate with the highest total Borda score wins the election.
+
+ELECTION FILE: {file}
+
+FULL PROFILE OF ALL VOTERS
+All voter blocks in this election (including yours) are:
+{profile}
+
+THE BLOCK YOU CONTROL
+You control a block with the following truthful ranking:
+{block}
+
+YOUR INSTRUCTIONS AND OBJECTIVE
+You should act strategically to achieve the best possible outcome given your preferences. Consider all possible voting strategies and outcomes.
+
+OUTPUT FORMAT
+Please provide your response in the following format:
+
+**Ranking of Candidates:** [From rank 1 to rank 3, list the candidates in order of preference. For example: A > B > C]
+
+**Reasoning:** [Provide 2-3 sentences explaining your thought process and why you chose this ranking. Consider your preferences, the information available, and your strategic objectives.]
+
+

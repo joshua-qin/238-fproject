@@ -1,0 +1,85 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1
+
+**Reasoning:** With sincere voting (2 > 3 > 1), the first-round tallies are 1:6, 2:5, 3:4; candidate 3 is eliminated, and their 4 votes transfer to 1, giving a final 10–5 win for candidate 1—our least-preferred outcome. It is impossible to make candidate 2 win under IRV, because in any 1 vs 2 runoff, candidate 1 always has at least 10 of 15 voters against 2. By ranking 3 first (3 > 2 > 1), we drive the first-round totals to 1:6, 2:0, 3:9, eliminating 2 immediately and yielding a 3 vs 1 runoff that 3 wins 9–6—securing our second-best outcome and avoiding our worst.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1  
+
+**Reasoning:** If we vote sincerely (2 > 3 > 1), the first-round totals are 1:6, 2:5, 3:4, so 3 is eliminated and its votes transfer to 1, giving candidate 1 a 10–5 win—our worst outcome. There is no way for candidate 2 to win under IRV given the other blocs’ preferences, but if our entire block instead ranks 3 first, candidate 3 gets 9 first-choice votes (4 + 5) and wins outright, which is strictly better for us than electing candidate 1.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1
+
+**Reasoning:** If I vote sincerely (2 > 3 > 1), the first-round totals are 1:6, 2:5, 3:4; candidate 3 is eliminated, and their votes transfer to 1, making candidate 1 (my least preferred) the winner. Given the other blocks’ fixed preferences, candidate 2 can never beat candidate 1 in the final IRV runoff, but if my entire block instead ranks 3 first, candidate 3 gets 9 first-choice votes and wins outright—delivering my second-best outcome and avoiding my worst.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1  
+
+**Reasoning:** If I vote sincerely (2 > 3 > 1), candidate 3 is eliminated first and candidate 1 ultimately wins, which is my least preferred outcome. By instead ranking 3 first, candidate 3 immediately gains a majority and wins, preventing candidate 1 from ever reaching the final round; ranking 2 or 1 second is then irrelevant, so I choose 3 > 2 > 1 to reflect my true order among the remaining options.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1  
+
+**Reasoning:**  
+If all voters (including us) vote sincerely, the first-round totals are 1:6, 2:5, 3:4; candidate 3 is eliminated, their votes transfer to 1, and 1 wins — our *least* preferred outcome. Because candidate 1 has a solid block of 6 first-choice votes and candidate 3’s supporters transfer to 1 if 3 is ever eliminated, candidate 2 cannot win under any ranking we choose. The only way to prevent 1 from winning is to give candidate 3 a first-round majority by ranking 3 first; with our 5 votes, 3’s first-choice total becomes 9, so 3 wins immediately, which is better for us than 1 winning.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1  
+
+**Reasoning:** If we vote sincerely (2 > 3 > 1), first-round totals are 1:6, 2:5, 3:4; candidate 3 is eliminated, and their votes transfer to 1, giving 1 a 10–5 victory—our worst outcome. Candidate 2 can never get more than 5 first-choice votes (only our block ranks 2 first), so 2 cannot win under any strategy. By instead ranking 3 first, first-round totals become 3:9, 1:6, 2:0, so 3 wins immediately with a majority, which is strictly better for us than electing 1.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1  
+
+**Reasoning:**  
+If we vote sincerely as 2 > 3 > 1, the first-round totals are 1:6, 2:5, 3:4, so 3 is eliminated and its votes transfer to 1, giving 1 a 10–5 win over 2. With our block instead ranking 3 first, the first-round totals become 1:6, 2:0, 3:9, so 3 wins immediately with a majority. Since our top choice (2) cannot possibly win under any strategy, the best achievable outcome given our preferences 2 > 3 > 1 is to elect our second-favorite, candidate 3, by ranking them first.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1  
+
+**Reasoning:** If our block votes sincerely (2 > 3 > 1), the first-round totals are 1:6, 2:5, 3:4, so candidate 3 is eliminated, their votes transfer to 1, and 1 wins with 10/15 — our least preferred outcome. By instead ranking 3 first, candidate 3 receives 9 first-choice votes (4 + our 5), immediately exceeding 50% and winning outright, which is our second-best option and strictly better than allowing candidate 1 to win.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1
+
+**Reasoning:** If our block votes sincerely (2 > 3 > 1), candidate 3 is eliminated first and candidate 1 ultimately wins with 10 out of 15 votes, which is our least-preferred outcome. No strategy can make candidate 2 win, because candidate 1 always has at least 6 first-choice votes and can’t be the first eliminated. By instead ranking 3 first, we give candidate 3 nine first-choice votes total (4 + our 5), so they win immediately in the first round—an outcome strictly better for us than electing candidate 1.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1  
+
+**Reasoning:** If we vote sincerely as 2 > 3 > 1, the first-round totals are 1:6, 2:5, 3:4, so 3 is eliminated and its votes transfer to 1, giving 1 a majority (10–5) and our *least* preferred candidate wins. It is impossible for 2 to win under IRV here, because 1 always has at least 6 first-choice votes and thus can never be eliminated before the final, and in a 1 vs 2 runoff, 1 beats 2 by 10–5. By instead ranking 3 first (3 > 2 > 1), candidate 3 gets 9 first-choice votes (4 + our 5), immediately surpasses 50%, and wins outright—our second-best and the best achievable outcome.
+
+================================================================================
+

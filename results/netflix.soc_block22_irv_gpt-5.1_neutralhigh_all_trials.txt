@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** I will submit the exact truthful ranking of the block I represent: [1, 4, 2, 3]. Under Instant Runoff Voting, your first choice (1) is not obviously non-viable given the complex distribution of preferences, and insincerely raising another candidate risks accidentally helping a less-preferred candidate (like 2 or 3) advance at 1’s expense. Voting your true order best reflects your delegated preferences without introducing strategic risk that is clearly beneficial based on the available information.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3  
+
+**Reasoning:** I will submit the ranking exactly matching your delegated preference: candidate 1 first, then 4, then 2, then 3. Under IRV, your full ranking is used in successive elimination rounds, so the best way to represent your interests as specified is to report your true preference order rather than attempt strategic deviation.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3  
+
+**Reasoning:** I will submit the ranking exactly matching your delegated preference profile: [1, 4, 2, 3]. Under IRV, your true first choice (1) is not a clear frontrunner, but given the complexity of the full electorate and the absence of explicit strategic instructions to deviate, the safest way to represent your interests is to vote sincerely according to your stated ranking.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3  
+
+**Reasoning:** I will submit your sincere preference order exactly as given: [1, 4, 2, 3]. Under Instant Runoff Voting, ranking candidates honestly is usually safe because lower-ranked choices are only considered if higher-ranked ones are eliminated, so expressing your full true ranking (1 > 4 > 2 > 3) best represents your interests without risking your top choice.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** I will cast the ballot exactly as in your delegated preference: 1 first, then 4, then 2, then 3. Under IRV, ranking sincerely does not harm your top choice, since lower-ranked candidates only matter if higher-ranked ones are eliminated, so this preserves your intent while still allowing your backup preferences (4 over 2 over 3) to influence later rounds if needed.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** I will cast the ballot exactly as in your delegated profile, because your instructions are to represent your interests, and your preferences are clearly stated as 1 over 4 over 2 over 3. Under IRV, ranking sincerely preserves your ability to help elect your top choice (1) while still influencing later rounds in favor of 4, then 2, and only lastly 3, which matches your stated ordering.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** I will cast the ballot exactly as your delegated preference profile specifies: candidate 1 as top choice, followed by 4, then 2, then 3. Under IRV your full ranking matters for later rounds when candidates are eliminated, so preserving your stated order best represents your interests across all possible elimination paths.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3  
+
+**Reasoning:** I will cast the ballot exactly according to your delegated preference order. Under IRV, ranking sincerely is usually safe because lower-ranked choices only matter if higher-ranked ones are eliminated, so this preserves your top choice (1) while still expressing your backup preferences (4, then 2, then 3) if needed in later rounds.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** I will cast the ballot exactly according to your delegated preference order: candidate 1 first, then 4, then 2, then 3. Under IRV, ranking sincerely does not harm your top choice, and including full rankings ensures that if your earlier choices are eliminated, your influence still counts in later rounds in the way that best reflects your stated priorities.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** I will submit the exact ranking of the block I represent. Under IRV, small deviations from sincere preferences rarely change the outcome unless the election is extremely tight and the pivotal scenarios are clear, which they are not here. Voting sincerely (1 > 4 > 2 > 3) best reflects the user's delegated preferences and avoids risking an unintended worse outcome through speculative strategic voting.
+
+================================================================================
+

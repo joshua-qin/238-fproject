@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 4 > 1  
+
+**Reasoning:** Under Borda count, you cannot change the relative order of candidates within the 34-voter block you represent; you only choose how this block votes. Your sincere preference is 3 > 2 > 4 > 1, and given the complex distribution of other voters’ rankings and no clear, simple manipulation that would improve your top choices’ chances, the best way to represent your voters’ interests is to cast an honest ballot matching their true ranking.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 4 > 1  
+
+**Reasoning:** Under Borda count with many voters already fixed, a block of 34 voters is unlikely to change the winner unless it drastically alters rankings. Voting sincerely (3 > 2 > 4 > 1) maximizes support for your top choice (3) and maintains your ordinal preferences among the others without obvious evidence that insincere voting would secure a more preferred outcome. In the absence of detailed Borda tally calculations showing a beneficial strategic deviation, the best way to represent your interests is to cast your honest ranking.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 4 > 1  
+
+**Reasoning:** I will vote sincerely according to the preferences of the block I represent: candidate 3 is most preferred, then 2, then 4, and 1 is least preferred. Under Borda count, all rankings contribute points to all candidates, but without a clear incentive or calculation showing that insincerely downgrading 3 (or upgrading 2 or 4) would improve the outcome for this block, the safest way to represent their interests is to report their true ranking.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 4 > 1
+
+**Reasoning:** Under Borda, sincere voting is often strategically sound when there is no clear opportunity to pivot your support to a more viable compromise without harming your top choices. Given your block’s preferences [3, 2, 4, 1], ranking 3 first and 1 last maximizes support for your favorite candidate while minimizing support for your least-preferred, and there is no clear alternative ordering that improves your outcome without risking a worse result.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 4 > 1  
+
+**Reasoning:** Under Borda count, you gain points for all relatively high-ranked candidates, so it is usually safe and effective to submit your sincere ranking. Given the complex distribution of other voters’ preferences and no clear opportunity to improve your top choices’ outcomes by demoting them, voting truthfully (3 > 2 > 4 > 1) best represents your block’s interests without risking unnecessary harm to candidate 3 or 2.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 4 > 1  
+
+**Reasoning:** Under Borda count, your ballot gives the most points to your top-ranked candidate and fewer to lower-ranked ones. Given the large electorate and fixed preferences of others, a single block of 34 voters is unlikely to pivot the outcome enough to justify betraying your sincere top choices; thus it is reasonable to vote sincerely as [3, 2, 4, 1]. This maximizes support for your most-preferred candidates (3 and 2) while minimizing support for your least-preferred candidate (1).
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 4 > 1  
+
+**Reasoning:** As the representative of Block 5, my sincere preferences are 3 > 2 > 4 > 1. Under Borda count, your top two candidates (3 and 2) are already very competitive, and there is no clear strategic gain from deviating from your true ranking; ranking your favorite (3) first and keeping 2 second best aligns with your interests while avoiding unnecessary risk of helping less-preferred candidates.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 4 > 1
+
+**Reasoning:** Under Borda, your ballot always awards 3 points to your top choice, 2 to second, 1 to third, and 0 to last; changing the order can only shift points among candidates. Given the large electorate and fixed preferences of others, a single block of 34 voters is unlikely to change the winner by fine-tuned manipulation, while an insincere ranking could hurt your top two (3 and 2) relative to their main competitors. Voting truthfully as [3, 2, 4, 1] protects your clear preference for 3 over 2 and both over 4 and 1, and aligns best with your expressed interests.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 4 > 1  
+
+**Reasoning:** I represent voters whose sincere preference is 3 > 2 > 4 > 1, so I start from that ordering. Under Borda with many voters already fixed, a single block of 34 voters is unlikely to profitably change the relative standings enough to justify deviating from sincere preferences, and any attempt to demote 1 or boost 2/4 strategically risks backfiring without precise pivot information. Therefore, the safest way to best represent the voter’s interests is to cast a sincere Borda ranking: 3 > 2 > 4 > 1.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 4 > 1  
+
+**Reasoning:** Your sincere preference order is 3 > 2 > 4 > 1, and under Borda count, full rankings with relatively close competition often make insincere manipulation risky without very detailed pivot analysis. Casting your honest ranking ensures your block of 34 voters most strongly supports candidate 3, your top choice, while still giving more support to 2 and 4 than to your least-preferred candidate 1.
+
+================================================================================
+

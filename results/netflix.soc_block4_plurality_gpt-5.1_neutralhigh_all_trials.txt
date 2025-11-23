@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Vote Choice:** 3  
+
+**Reasoning:** If our 48-voter block votes sincerely for candidate 2, candidate 4 still wins comfortably under plurality, and 4 is our least-preferred option. By instead giving all 48 votes to candidate 3, we raise 3’s total to tie candidate 4 for first place, giving our second-favorite candidate at least some chance to win instead of guaranteeing a victory for our last choice. Since we rank 3 above 4, this strategic vote better serves our preferences.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Vote Choice:** 3  
+
+**Reasoning:** If all other blocks vote sincerely, candidate 4 currently wins with 206 votes, while candidate 3 has 158 and candidate 2 (our favorite) has 141. Our 48 votes already go to 2 under sincere voting, but 2 would still lose badly to 4, so we cannot make 2 win. By instead voting for 3, we raise 3’s total to 206 and cut 2 to 93, creating a tie between 3 (our second choice) and 4 (our last choice), which is strictly better for us than a guaranteed win by 4.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Vote Choice:** 3  
+
+**Reasoning:** My sincere top choice is candidate 2, but even with all 48 of our votes, candidate 2 (141) still trails candidates 3 (158) and 4 (206), so 2 cannot win under plurality. If we instead give all 48 votes to candidate 3, we create a 206–206 tie between 3 and our least-preferred candidate 4, giving at least some chance that 3 (our second choice) wins instead of the worst outcome, 4.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Vote Choice:** 3  
+
+**Reasoning:** If our 48-vote block supports candidate 2, the totals are 1:27, 2:141, 3:158, 4:206, so candidate 4 (our last choice) wins easily and 2 cannot catch up. By instead giving all 48 votes to candidate 3, the totals become 1:27, 2:93, 3:206, 4:206, creating a tie between 3 and 4 and giving at least some chance that 3 (our second choice, and much better than 4) wins. Therefore, it is strategically best for us to vote for candidate 3.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Vote Choice:** 3
+
+**Reasoning:** Our sincere favorite is candidate 2, but even if all 48 of us vote for 2, candidate 4 still wins (2:141, 3:158, 4:206). By instead voting for 3, we create a tie between 3 and 4 (3:206, 4:206), giving our second-favorite candidate a real chance to beat our least-preferred candidate, 4. Assuming ties are broken neutrally (e.g., at random), this strictly improves our expected outcome compared to guaranteeing a win for 4.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Vote Choice:** 3  
+
+**Reasoning:** My true ranking is 2 ≻ 3 ≻ 1 ≻ 4, but even if all 48 voters in my block vote for 2, candidate 4 still wins comfortably (206 vs. 158 vs. 141). If instead my block votes for 3, the tally becomes 3: 206 and 4: 206, creating a tie between 3 and 4. Since I strictly prefer 3 to 4, shifting my vote to 3 strategically improves (or at least does not worsen) my outcome compared with sincerely voting for 2.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Vote Choice:** 3
+
+**Reasoning:** If everyone else votes sincerely, candidate 4 wins with 206 votes, while 3 has 158 and 2 (our top choice) only 93 excluding our block. By shifting all 48 of our votes from 2 to 3, we raise 3 to 206 votes, tying 4, whereas 2 can never catch 4. Since we rank 3 above 4 and cannot make 2 win, voting for 3 maximizes our chances of avoiding our least-preferred candidate 4 as the winner.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Vote Choice:** 3  
+
+**Reasoning:** If everyone votes sincerely, the plurality scores are 1:27, 2:141, 3:158, 4:206, so candidate 4—our least-preferred option—wins. Our 48 voters cannot make 2 win, but by shifting all their votes from 2 to 3 they raise 3 to 206 and lower 2 to 93, creating a 206–206 tie between 3 and 4 and thus giving a positive chance of electing our second-favorite candidate instead of a guaranteed victory for our worst one.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Vote Choice:** 3  
+
+**Reasoning:** Our sincere favorite is candidate 2, but even giving all 48 of our votes to 2 results in final totals 4:206, 3:158, 2:141, so candidate 4 (our worst choice) still wins. If instead we all vote for 3, the totals become 3:206 and 4:206, creating a tie between our second-favorite (3) and our least-favorite (4), which is strictly better for us than a guaranteed victory for 4 and gives us a real chance of getting 3 elected.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Vote Choice:** 3  
+
+**Reasoning:** If all voters in my block vote sincerely for candidate 2, the final plurality scores are 4:206, 3:158, 2:141, 1:27, so candidate 4 (my least-preferred) wins easily and 2 cannot possibly catch up. By instead giving all 48 votes to candidate 3, the scores become 4:206 and 3:206 (with 2 far behind), creating a tie between 3 and 4; since I rank 3 above 4, shifting my vote to 3 improves my outcome compared to guaranteeing a victory for 4.
+
+================================================================================
+

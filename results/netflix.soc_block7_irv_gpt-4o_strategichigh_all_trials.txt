@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** As a voting agent for Block 7, my primary objective is to maximize the chances of candidate 4 winning, as they are our most preferred choice. In the initial round, candidate 4 starts with a strong base of first-choice votes (including our 31 votes), but they are competing against candidates 3 and 2, who also have significant support. By ranking 4 first, we solidify their standing. Candidate 2 is our next preferred choice, so we rank them second to ensure our support transfers to them if candidate 4 is eliminated, increasing the likelihood that a more preferred candidate stays in the race. Candidate 1 is ranked third, as they are more preferable than candidate 3, who is our least preferred option. This strategy aligns our votes with both our preferences and the potential dynamics of the IRV process.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** As a voting agent representing Block 7, I aim to maximize our preference for candidate 4. The initial preference for Block 7 is [4, 2, 1, 3], indicating candidate 4 as the top choice. Given the IRV system, ranking candidate 4 first ensures that our votes initially support them. Candidate 3 appears in several first-choice rankings and could be a strong competitor, so placing them last reduces their chance of gaining additional votes if our top choice is eliminated. By ranking candidate 2 second, we align with other significant blocks that favor candidate 2, increasing the likelihood of achieving a favorable outcome if candidate 4 is eliminated.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** As a voting agent for Block 7, my primary goal is to ensure that candidate 4, the most preferred candidate in our block's ranking, has the strongest chance of winning. By ranking 4 first, I maximize their initial vote count, which is crucial in an IRV system. Candidate 2 is ranked second because they are our next preferred choice, and placing them there ensures that if candidate 4 is eliminated, our votes will transfer to candidate 2, who is more favorable than candidates 1 and 3. This strategy aligns with our objective of advancing candidates 4 and 2 as far as possible in the election process.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** As a voting agent for Block 7, my primary objective is to ensure that candidate 4, our top preference, has the best chance of winning. Strategically, I maintain the block's original ranking of 4 > 2 > 1 > 3 to maximize candidate 4's initial vote count and to ensure that, if candidate 4 is eliminated, our votes transfer to candidate 2, our second choice. There's little strategic advantage in altering the ranking since candidate 4 needs a strong showing in the initial rounds to have a chance at making it to the decisive stages of the IRV process. Furthermore, given the distribution of preference profiles, maintaining our original preference order is the most effective way to attempt to influence the final outcome in favor of our preferred candidates.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** My primary objective is to ensure that candidate 4, my most preferred candidate, has the best chance of winning. By ranking candidate 4 first, I am maximizing their chances of surviving initial rounds and potentially gaining transferred votes in later rounds. Candidate 2 is my second choice, so I rank them next to ensure they remain competitive in case candidate 4 is eliminated. Candidates 1 and 3 are my least preferred, with 3 being the least, so they are ranked lower. This ordering reflects my strategic aim to support my top choices while also considering the dynamics of the IRV system.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 3 > 1
+
+**Reasoning:** As a voting agent for Block 7, my primary objective is to maximize the chances of candidate 4 winning, as they are our top preference. In the initial round, candidate 4 is likely to be competitive given their prevalence in several voter blocks, including ours. By ranking candidate 4 first and candidate 2 second, I aim to ensure that if candidate 4 doesn't secure enough initial votes to win outright, our votes might still transfer to candidate 2, who is our next preferred candidate and has sufficient initial support to potentially challenge other frontrunners. Candidates 3 and 1 are ranked lower as they are less preferred and there are indications that they might not have as strong a standing in the initial rounds based on the distributed preferences across other blocks.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 3 > 1
+
+**Reasoning:** As a voting agent for Block 7, my primary objective is to ensure candidate 4, our top preference, has the best chance of winning. With 31 voters in our block preferring candidate 4 first, I will vote honestly to support them. Candidate 2 is our second choice, and strategically placing them ahead of candidates 3 and 1 maintains our preference order while considering potential vote transfers. This strategy maximizes the chances of our preferred candidates advancing in the IRV process, given that candidate 4 needs strong initial support and candidate 2 could become a viable alternative if candidate 4 gets eliminated.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** As a voting agent representing Block 7, my primary objective is to ensure the success of candidate 4, who is the most preferred candidate according to the preference profile [4, 2, 1, 3]. By ranking candidate 4 first, I maximize their chances of staying in the race. Candidate 2 is ranked second as a strategic backup choice, ensuring that if candidate 4 is eliminated, the votes still contribute to a highly preferred outcome. Candidates 1 and 3 are less preferred, and their position in the ranking reflects their lower priority. This strategy aims to prevent candidate 3, the least preferred, from winning while supporting candidates 4 and 2, who align more closely with the preferences of the voters I represent.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 4 > 1 > 3
+
+**Reasoning:** Given my block's preference for candidate 4 as the most preferred, strategic voting is necessary because candidate 4 is unlikely to gain a majority in the first round based on the initial preference distributions. By ranking candidate 2 first, we align with other significant blocks of voters who also prefer candidate 2, increasing the likelihood of advancing to the final rounds. This strategy positions candidate 4 as a strong alternative in subsequent rounds, while candidate 1 is ranked third to possibly leverage later transfers if candidates 2 or 4 are eliminated. Candidate 3 is ranked last, as they are the least preferred and supporting them would not align with my block’s preferences.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** Given the preference profile of the voters I represent, candidate 4 is the most preferred. My objective is to ensure the best possible outcome for my block, which means maximizing the chances of candidate 4 winning. By ranking 4 as the top choice, I maintain alignment with the true preferences of my voters. Candidate 2 is ranked second because they are the next best alternative, and by supporting them as a backup, we avoid the least preferred candidate 3 from winning. Ranking candidate 1 third and candidate 3 last reflects our strategic priority to prevent candidate 3, our least preferred, from gaining an advantage in any runoff scenarios.
+
+================================================================================
+

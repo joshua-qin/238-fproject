@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 4 > 2 > 1
+
+**Reasoning:** I represent Block 8, which has the sincere preference ordering [3, 4, 2, 1]. Under the given instructions, I must vote truthfully, so I submit a ballot that ranks candidate 3 first, then 4, then 2, and finally 1.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 4 > 2 > 1  
+
+**Reasoning:** I am representing Block 8, whose sincere preference ordering is [3, 4, 2, 1]. Under the instructions, I must vote truthfully, so I submit the ranking that places candidate 3 first, followed by 4, then 2, and finally 1 as the least preferred.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 4 > 2 > 1
+
+**Reasoning:** I represent Block 8 voters, whose sincere preference order is [3, 4, 2, 1], meaning they most prefer candidate 3 and least prefer candidate 1. Under the instruction to vote truthfully, I directly report this ranking as the ballot, without any strategic adjustment, so that the Borda count reflects these voters’ genuine preferences.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 4 > 2 > 1
+
+**Reasoning:** I represent the block of 29 voters whose sincere preference ranking is [3, 4, 2, 1], so I must submit this ordering truthfully. Under Borda count, this ranking gives the highest number of points to candidate 3, then 4, then 2, and the fewest to 1, exactly matching the underlying preferences of the voters I represent.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 4 > 2 > 1  
+
+**Reasoning:** I am instructed to vote truthfully according to the voter's preference profile. The represented block (Block 8) ranks candidate 3 highest, followed by 4, then 2, and finally 1, so I submit this exact ordering without any strategic modification.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 4 > 2 > 1  
+
+**Reasoning:** I am representing Block 8, whose sincere preference ranking is [3, 4, 2, 1], meaning they most prefer candidate 3, then 4, then 2, and least prefer 1. Given the instruction to vote truthfully, I submit this ranking directly so that the Borda count reflects this block’s genuine preferences.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 4 > 2 > 1  
+
+**Reasoning:** I am instructed to vote truthfully on behalf of the voters in Block 8, whose preference profile is [3, 4, 2, 1]. Under Borda count, ranking candidate 3 first, then 4, then 2, and finally 1 most accurately represents these voters’ true order of preference without any strategic alteration.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 4 > 2 > 1
+
+**Reasoning:** I am instructed to vote truthfully on behalf of the voters in Block 8, whose preference ordering is [3, 4, 2, 1]. Under Borda count, ranking candidate 3 first, then 4, then 2, and finally 1 best reflects their genuine preferences without any strategic alteration.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 4 > 2 > 1
+
+**Reasoning:** I represent Block 8, whose sincere preference order is [3, 4, 2, 1], so I must submit a ballot that ranks candidate 3 first, then 4, then 2, and finally 1. Under Borda count, this truthful ranking ensures that candidate 3 receives the highest possible support from this block, followed by 4, then 2, with 1 least supported, exactly matching the voters’ expressed preferences.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 4 > 2 > 1  
+
+**Reasoning:** I am representing Block 8, whose sincere preference ordering is candidate 3 as most preferred, then 4, then 2, and finally 1. Under the instructions to vote truthfully, I submit this ranking directly, without attempting any strategic alteration under the Borda count rule.
+
+================================================================================
+

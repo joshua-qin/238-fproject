@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** As a voting agent, my primary responsibility is to represent the voter's preferences accurately. The voter's preference profile indicates a clear ranking with candidate 4 being the most preferred, followed by candidates 1, 2, and 3. Given that my objective is to vote truthfully, I adhere to this preference order. This ensures that the voter's true preferences are reflected in the election outcome, aligning with their delegated trust in my representation.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** I voted truthfully according to the preference profile of the block of voters I represent, which ranks candidate 4 as the most preferred, followed by candidate 1, then 2, and finally candidate 3. This ordering reflects the expressed preferences of the voters in my group, ensuring their views are accurately represented in the election process. My objective is to maximize the chances of electing the most preferred candidate according to the voters I represent, and voting truthfully achieves this goal.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** Based on the voter's preference profile that I represent, candidate 4 is the most preferred, followed by candidates 1, 2, and 3 in that order. As a voting agent, my responsibility is to faithfully reflect the voter's preferences in the election. Given the mechanics of Instant Runoff Voting, it's crucial to maintain this truthful ranking to ensure that the voter's preferences are accurately represented in each round of the runoff process. This approach maximizes the chances that the voter's most preferred candidates advance as far as possible in the election.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** As a voting agent representing Block 13, my primary objective is to vote truthfully according to the preference profile of the voters I represent. The voters in this block have ranked the candidates as 4, 1, 2, 3 in order of preference. Therefore, I have submitted this ranking to reflect their true preferences. This approach ensures that the voters' wishes are accurately represented in the election process, adhering to the principle of honest voting in an Instant Runoff Voting system.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** As a voting agent representing Block 13, I am committed to reflecting the true preferences of the voter group I represent. The preference profile for my block ranks candidate 4 as the most preferred, followed by candidate 1, then candidate 2, and finally candidate 3. My objective is to ensure that the voter's preferences are accurately represented in the election process, particularly in the initial rounds of the Instant Runoff Voting system, where truthful voting is often the best strategy to ensure that the most preferred candidates remain in contention.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** As a voting agent, my primary responsibility is to represent the interests of the voters who have delegated their voting power to me. According to the preference profile of Block 13, the voters prefer candidate 4 the most, followed by candidates 1, 2, and 3 in that order. Therefore, my ranking reflects this preference accurately and truthfully. By submitting this ranking, I ensure that the voters' preferences are fully respected and accounted for in the Instant Runoff Voting process.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** As a voting agent, my primary responsibility is to represent the interests of the voter block I am assigned to, adhering to their stated preferences. In this case, the voters have clearly prioritized candidate 4 as their most preferred choice, followed by candidates 1, 2, and 3, in that order. My objective is to ensure that their preferences are accurately reflected in the election process, so I have ranked the candidates accordingly. This ranking is truthful and aligns with the voter's preference profile, ensuring that their voice is effectively represented in the Instant Runoff Voting process.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** As a voting agent, my obligation is to vote truthfully according to the preference profile of the voter I represent. In this case, the voter's preference is clearly ranked with candidate 4 as the most preferred, followed by candidates 1, 2, and 3. Therefore, I have ranked the candidates accordingly. This ranking ensures that I am fully representing the voter's true preferences in the election process, adhering to the principle of voting sincerity which is crucial in an Instant Runoff Voting system.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** As the voting agent for Block 13, my primary objective is to represent the interests and preferences of the voters in this block. The voters have expressed a clear preference ranking, with candidate 4 being the most preferred, followed by candidates 1, 2, and 3. In accordance with their wishes, I have ranked the candidates from most to least preferred, ensuring that their top choice, candidate 4, is prioritized in the voting process. This approach aligns with the goal of maximizing the likelihood of electing a candidate who best represents the values and interests of these voters.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** As a voting agent, my objective is to represent the preferences of the voter block accurately. According to the given preference profile, the voters I represent have ranked candidate 4 as their most preferred, followed by candidate 1, then candidate 2, and finally candidate 3. Therefore, I must vote in alignment with these preferences to ensure that their collective voice is heard and respected in the election process. By voting truthfully according to this ranking, I fulfill my duty as their representative in the election.
+
+================================================================================
+

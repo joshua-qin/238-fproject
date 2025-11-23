@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** I am representing Block 13, whose sincere preference order is [4, 1, 2, 3]. Under Instant Runoff Voting, ranking sincerely is usually safe because lower preferences only matter if higher-ranked candidates are eliminated, and there is no penalty for expressing true lower-order preferences. Given this, and without any special strategic coordination instructions, I will cast the ballot exactly as [4 > 1 > 2 > 3] to best reflect the voter’s delegated preferences.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** I represent Block 13, whose sincere ranking is [4, 1, 2, 3], so candidate 4 is the top priority, followed by 1, then 2, then 3. Under Instant Runoff Voting, ranking sincerely does not hurt the top choice, and given the large, complex electorate, there is no clear strategic advantage to deviating from the block’s true preferences, so I preserve that order.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** I will cast the ballot exactly according to your block’s stated preferences: candidate 4 as top choice, then 1, then 2, then 3. Under IRV, ranking all candidates in true preference order cannot hurt your top choice and ensures that, if 4 is eliminated, your vote continues to support the next-best remaining options (1, then 2) rather than your least-preferred candidate 3.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3  
+
+**Reasoning:** You directly represent Block 13, whose sincere ranking is [4, 1, 2, 3]. Under IRV, candidate 4 has substantial first-choice support (from several large blocks including yours) and is competitive, so ranking 4 first is both sincere and strategically sound. Keeping 1 above 2 and 3 preserves your block’s stated preferences for later rounds without creating any clear strategic gain from misrepresenting them.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** I am representing Block 13, whose sincere preference order is [4, 1, 2, 3]. Under Instant Runoff Voting, ranking sincerely is typically safe and preserves our ability to transfer support to our next-best options if candidate 4 is eliminated, so I keep the exact order 4 > 1 > 2 > 3 to best reflect and protect the voter’s preferences throughout the elimination rounds.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3  
+
+**Reasoning:** You represent Block 13, whose sincere preference order is [4, 1, 2, 3]. Under IRV, ranking sincerely is typically safe because lower-ranked preferences only matter if higher-ranked ones are eliminated, and there is no penalty for ranking all candidates. Keeping your ballot exactly as [4, 1, 2, 3] best reflects your voter’s interests and preserves support for candidate 4 first, then 1, then 2, with 3 as the least preferred.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3  
+
+**Reasoning:** I will vote sincerely according to the delegated preference order [4, 1, 2, 3]. Under IRV, ranking 4 first best serves the voter’s top preference, and there is no indication that reversing or distorting their stated order would improve their outcome relative to their own priorities.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** You represent Block 13, whose sincere ranking is [4, 1, 2, 3], so your top preference is candidate 4, then 1, then 2, then 3. Under IRV, candidate 4 is not so weak that a betrayal would clearly help, and ranking them first maximizes the chance they survive early eliminations and potentially win. Keeping 1 above 2 and 3 preserves your sincere fallback order if 4 is eliminated, aligning your vote with your block’s stated preferences without any clear strategic gain from deviating.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3  
+
+**Reasoning:** I will submit the sincere ranking of the block I represent: they most prefer 4, then 1, then 2, then 3. Under IRV, ranking 4 first cannot hurt 4’s chances, and ranking 1 second ensures that if 4 is eliminated in an early round, the vote transfers to 1 rather than to less-preferred candidates 2 or 3. Given the information provided, there is no clear strategic gain from deviating from these true preferences.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** I am representing Block 13, whose sincere preference order is [4, 1, 2, 3]. Under Instant Runoff Voting, ranking sincerely is typically safe because lower-ranked choices only matter if higher-ranked ones are eliminated, so I preserve your true priority of electing 4 first, then 1, then 2, with 3 as the last resort.
+
+================================================================================
+

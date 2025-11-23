@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** Based on the preference profile of the block of voters I represent, candidate 4 is the top choice, followed by candidates 2, 1, and 3. In an Instant Runoff Voting system, ranking candidates according to the most preferred order ensures that votes are transferred effectively if the top choice is eliminated. Our primary objective is to give candidate 4 the best chance of winning, while candidates 2 and 1 serve as strong backup options if candidate 4 is eliminated during the process. Candidate 3 is the least preferred option in this block, so they are ranked last.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** As a voting agent representing the block with the preference profile [4, 2, 1, 3], my primary objective is to ensure that candidate 4, who is the top preference, has the best chance of winning. By ranking candidate 4 first, I align with the block's preference. Candidate 2 is ranked second as per the original preference, followed by candidates 1 and 3. This ranking maximizes the likelihood that the voters' preferences are respected through each elimination round in the Instant Runoff Voting process.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** As a voting agent for a block with the preference profile [4, 2, 1, 3], my primary goal is to represent my constituency's preferences accurately while considering the dynamics of Instant Runoff Voting (IRV). Candidate 4 is the most preferred option, and therefore, is ranked first. Candidate 2 is preferred over candidates 1 and 3, hence is ranked second. Candidates 1 and 3 are the least preferred, so they are ranked accordingly. In IRV, ranking candidates in true preference order maximizes the chance of influencing the outcome in favor of more preferred candidates through vote transfers.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** As a voting agent representing a block with the preference [4, 2, 1, 3], my primary objective is to rank the candidates in a manner that maximizes satisfaction for the voter block. Candidate 4 is the most preferred in this block, so they are ranked first. Candidate 2 follows as the second choice, as they are the next most preferred. Candidates 1 and 3 are less preferred, so they are ranked third and last, respectively. By following this preference order, I aim to ensure that the interests of the voter block are prioritized and that their most favored candidate has the best chance of succeeding in the instant runoff process.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** As a representative of the voter block with the preference [4, 2, 1, 3], my primary objective is to maximize the chances of candidate 4 winning, as they are the top preference. By ranking candidate 4 first, I ensure that our votes initially support them. Candidate 2 is ranked second, as they are the next preferred choice should candidate 4 be eliminated in any round of the runoff process. Candidates 1 and 3 are ranked third and fourth, respectively, reflecting the original preference profile of the voters I represent. This ranking aligns with the voter's interests and preserves their strategic priorities in the election.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** As a voting agent representing Block 7 with the preference profile [4, 2, 1, 3], my main objective is to ensure that candidate 4, the most preferred candidate, has the best chance of winning. Given the IRV system, it's important to rank candidate 4 as the top choice to ensure they receive the first-choice votes from this block. Following that, candidate 2 is ranked second as the next preferred option if candidate 4 is eliminated. This strategic ranking maximizes the influence of this block's votes in aligning with the expressed preferences, ensuring that if candidate 4 cannot win, candidate 2 is the next best option.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** Based on the preference profile I represent (Block 7: count 31, ranking [4, 2, 1, 3]), my top priority is to rank candidate 4 as the most preferred, as this aligns with the voters' top choice in my block. By ranking candidate 4 first, we maximize the chances of our preferred candidate advancing through the rounds. Candidate 2 is ranked second to ensure that if candidate 4 is eliminated, our next preferred candidate has strong support. Candidates 1 and 3 are ranked third and fourth, respectively, following the given preferences. By adhering to the original preference order, I aim to reflect and uphold the voters' choice best.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** Based on the preference profile of the block I represent, our top choice is candidate 4, followed by candidate 2, candidate 1, and finally candidate 3. In an Instant Runoff Voting system, it's crucial to rank candidates in order of genuine preference since the elimination process may lead to subsequent choices being considered. By following the given preference profile, I'm ensuring that our voting power is aligned with the voter's delegated interests, maximizing the chance that a more preferred candidate remains in the race and potentially wins.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** As a voting agent representing Block 7, our primary objective is to maximize the chances of candidate 4 winning, as they are the top choice in our preference profile. By ranking candidate 4 first, we ensure that our votes initially support them. Candidate 2 is our second choice, so they are ranked next. Candidates 1 and 3 are our least preferred; however, to maintain strategic positioning, candidate 1 is ranked third, and candidate 3 last, as they are the least preferred option. This ranking aligns with our preference profile and attempts to optimize the outcome according to our priorities in the Instant Runoff Voting system.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** As a voting agent for Block 7, my primary objective is to represent the preferences of the 31 voters in my block who prefer candidate 4 the most, followed by candidate 2, then 1, and lastly 3. In the context of Instant Runoff Voting (IRV), it's crucial to ensure that candidate 4 remains in the race as long as possible, maximizing their chances of securing over 50% of the votes. By ranking candidate 4 first, I align with the block's top preference and strategically aim to keep candidate 4 competitive in subsequent rounds should eliminations occur.
+
+================================================================================
+

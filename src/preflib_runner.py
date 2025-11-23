@@ -117,6 +117,7 @@ def run_preflib_experiment(args):
             f"{args.voting_rule}_"
             f"{args.model}_"
             f"{args.instruction_type}"
+            f"{args.reasoning_effort}"
         )
 
         print(f"\n=== Running block {i+1} → {output_base} ===")
@@ -159,8 +160,8 @@ if __name__ == "__main__":
 
     parser.add_argument("--instruction-type", default="truthful")
 
-    # parser.add_argument("--candidates", nargs="+",
-    #                     help="Candidate labels (e.g. 1 2 3 4)", required=True)
+    parser.add_argument("--candidates", nargs="+",
+                        help="Candidate labels (e.g. 1 2 3 4)", required=True)
 
     parser.add_argument("--temperature", type=float, default=0.7)
     parser.add_argument("--trials", type=int, default=1)

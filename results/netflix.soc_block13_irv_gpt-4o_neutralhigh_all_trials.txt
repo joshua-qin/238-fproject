@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** Based on the preference profile of Block 13, candidate 4 is the most preferred, followed by candidate 1. My primary objective is to ensure that the preferences of the voters I represent are maximally satisfied, so I rank candidate 4 highest. Given the structure of Instant Runoff Voting, where preferences are redistributed as candidates are eliminated, maintaining the order of 1, 2, and 3 after our top choice helps ensure that our subsequent preferences are considered if candidate 4 is eliminated. This ranking strategy maximizes the influence of my block's preferences throughout the voting rounds.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** As a voting agent, my primary objective is to represent the interests of the voter block I am assigned to, which has a preference profile of [4, 1, 2, 3]. This means candidate 4 is their top choice, followed by candidate 1, then candidate 2, and finally candidate 3. In an Instant Runoff Voting system, aligning the vote with the expressed preferences of my block maximizes the chances of our top-choice candidate advancing in each round, while also serving as a fallback strategy to support subsequent preferences if our top choice is eliminated.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** Based on the preference profile of Block 13, candidates are ranked in the order of 4, 1, 2, and 3. The objective is to represent the voter's preferences faithfully. The ranking indicates a strong preference for candidate 4 as the top choice, followed by candidate 1, which aligns with the voter's interest. In an Instant Runoff Voting system, it's crucial to ensure that the voter's most preferred candidate remains in the running for as long as possible, maximizing the chances of their preferred outcome.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** Based on the preference profile I represent, the most preferred candidate is 4, followed by candidate 1, then 2, and finally 3. My primary objective is to maximize the chances of the most preferred candidates (4 and 1) advancing through the rounds of the IRV process. By voting in this order, I aim to ensure that candidate 4 has the best chance of accumulating votes throughout the elimination rounds, while maintaining support for candidate 1 as the next best option if candidate 4 is eliminated. This strategic ranking aligns with the preferences of the block of voters I represent.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** I represent a block of voters who have a clear preference for candidate 4 as their top choice, followed by candidates 1, 2, and 3. In an Instant Runoff Voting (IRV) system, it's crucial to rank the candidates according to the voter's true preferences to maximize the chance of their most preferred candidate winning. By ranking candidate 4 first, I align with the primary preference of the voters I represent, ensuring their interests are accurately reflected in the election. Additionally, ranking candidate 1 as second provides a broader strategic position if candidate 4 is eliminated in an early round, as it positions the block for influence in subsequent eliminations.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** My task is to represent the interests of the voter block with the preference profile [4, 1, 2, 3]. This means my primary objective is to rank candidate 4 as the most preferred, followed by candidates 1, 2, and 3 in that order. By ranking the candidates in this way, I am ensuring that my vote reflects the preferences of the block I represent, maximizing the chances of electing a candidate closer to our collective interests under the Instant Runoff Voting system. This ranking strategy aims to support candidate 4 as long as they remain in the race, and if eliminated, the next preferred candidate (1) would receive our votes, and so on.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** I have ranked the candidates according to the preference profile of the block of voters I represent, which is [4, 1, 2, 3]. This ordering reflects a direct representation of their preferences, ensuring that candidate 4 is prioritized as the most preferred choice, followed by candidates 1, 2, and 3 in descending order. By maintaining this ranking, I aim to ensure that the preferences of my voter block are accurately represented in the election process, maximizing the chance of electing a candidate that aligns with their interests.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** My block of 16 voters has a preference ranking of [4, 1, 2, 3], so I will vote in alignment with these preferences. By ranking candidate 4 first, I aim to increase their chances of winning, as they are the top preference for my block. Ranking candidate 1 second and candidate 2 third maintains the internal preferences while also positioning candidate 3 as the least preferred choice, reflecting my voters' least favorable option and assisting in their strategic elimination if the opportunity arises.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** As a representative of Block 13, my primary responsibility is to reflect the preference profile of the group I represent, which ranks candidate 4 as the most preferred, followed by candidate 1, then 2, and finally candidate 3. In an Instant Runoff Voting system, maintaining the original preference order ensures that the group's influence is maximized during each round of vote redistribution. By ranking candidate 4 first, I align with the group's top choice, while the subsequent order respects their secondary preferences. This approach ensures that if candidate 4 is eliminated, the votes are transferred optimally according to the group's hierarchy of preferences.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** As a voting agent, I am tasked with representing the interests of the voters whose preference profile I embody. In this case, the voters I represent have indicated a clear preference for candidate 4 as their top choice, followed by candidate 1, then candidate 2, and finally candidate 3. My objective is to ensure that the preferences of these voters are accurately reflected in the election process. By ranking the candidates in this order, I am adhering to the explicit preferences of the block of voters I represent and maximizing their influence in the instant runoff voting system.
+
+================================================================================
+

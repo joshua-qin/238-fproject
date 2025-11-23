@@ -1,0 +1,84 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Vote Choice:** 10  
+
+**Reasoning:**  
+If everyone votes sincerely, candidate 1 wins with 7 votes, just ahead of candidate 10 with 6; my current favorite, candidate 11, only has 3 votes and cannot win with my single vote. By switching my vote from 11 to 10, I create a 7–7 tie between candidates 1 and 10, and since I prefer 10 to 1, any reasonable tie-breaking rule (e.g., random among tied winners) gives me a better expected outcome than letting 1 win outright.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Vote Choice:** 10  
+
+**Reasoning:** With everyone voting sincerely, candidate 1 leads with 7 votes, candidate 10 has 6, and my favorite candidate 11 only has 3, so 11 cannot win no matter what I do. By shifting my vote from 11 to 10, candidate 10’s total rises to 7, creating a tie with candidate 1 instead of a clear victory for 1. Since I prefer 10 over 1, inducing a tie between them is my best available strategy under plurality.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Vote Choice:** 10  
+
+**Reasoning:** If I vote sincerely for my top choice (11), candidate 1 wins with 7 votes, while 11 only reaches 4, which is a poor outcome given my preferences. By instead voting for candidate 10, I create a 7–7 tie between candidates 1 and 10, and since I rank 10 above 1, this strategically improves my expected outcome compared to a sincere vote.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Vote Choice:** 10  
+
+**Reasoning:** If I vote sincerely for my top choice (11), candidate 11 only reaches 3 votes, far behind candidate 1 (7 votes) and candidate 10 (6 votes), so 11 cannot win. By instead voting for candidate 10, I raise 10’s total to 7, creating a tie with candidate 1; since I prefer 10 over 1, this strategic vote gives a strictly better expected outcome for my preferences than voting for 11.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Vote Choice:** 10  
+
+**Reasoning:** If everyone else votes sincerely and I also vote sincerely for 11, candidate 1 gets 7 votes and wins, while 10 gets 6. By shifting my vote from 11 (my top choice) to 10 (my second choice), I create a 7–7 tie between 1 and 10, giving my preferred of the two front-runners a chance to win instead of guaranteeing a victory for candidate 1. Since 11 cannot win with a single additional vote, the best strategic move is to support 10 to block 1.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Vote Choice:** 10
+
+**Reasoning:** With sincere voting, candidate 1 wins with 7 votes, candidate 10 has 6, and your favorite (11) only has 3; even if you vote for 11, it rises only to 4 and still loses. By voting for candidate 10 instead, you create a 7–7 tie between candidates 1 and 10, giving your second-favorite candidate (10) a chance to win rather than guaranteeing victory to your third-favorite (1).
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Vote Choice:** 10
+
+**Reasoning:** My top choice, 11, is currently far behind and cannot win with just my one vote. The real contest is between candidates 1 (7 votes) and 10 (6 votes), and by voting for 10, I create a tie for first place instead of giving candidate 1 a larger lead. Since I prefer 10 over 1 (11 ≻ 10 ≻ 1), it is strategically best to vote for 10 to give my more preferred viable candidate the strongest chance of winning.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Vote Choice:** 10  
+
+**Reasoning:** With sincere voting, candidate 1 currently wins with 7 votes, while candidate 10 has 6. Your favorite is 11, but it only has 3 first-place votes and cannot win. By shifting your vote from 11 to 10, you create a 7–7 tie between candidates 1 and 10; since you prefer 10 over 1, this improves your expected outcome compared to letting 1 win outright.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Vote Choice:** 10
+
+**Reasoning:** With sincere voting for 11, the current totals make candidate 1 win (1 has 7 votes, 10 has 6, 11 has 3). My top choice 11 cannot win with just one extra vote, but by switching my vote to 10 I create a 7–7 tie between 1 and 10, giving my second-favorite candidate 10 a real chance to win instead of guaranteeing a victory for 1, whom I rank lower than 10.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Vote Choice:** 10
+
+**Reasoning:** Given everyone else’s top choices, candidate 1 has 7 votes, candidate 10 has 6, and our true favorite 11 only has 3 and cannot win. If we vote sincerely for 11, 1 wins; if we instead vote for 10, we create a 7–7 tie between 1 and 10, giving our second-favorite candidate a serious chance to beat our third-favorite. Thus, strategically, voting for 10 best advances our preferences.
+
+================================================================================
+

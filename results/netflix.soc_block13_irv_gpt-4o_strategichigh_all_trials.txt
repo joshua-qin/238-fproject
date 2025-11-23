@@ -1,0 +1,77 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** As a voting agent representing Block 13, my primary objective is to maximize the chances of candidate 4 winning, as they are our top preference. Given the preference profile, candidate 4 has substantial initial support but not a majority. By maintaining my voters' original preference order, I strengthen candidate 4's position in the initial rounds. This strategy ensures that if candidate 4 is eliminated, the votes transfer to candidate 1, our second preference, while minimizing the potential advantage to candidates 2 and 3, who are less preferred. This approach aligns with our strategic objective to prioritize our top two choices while considering the dynamics of Instant Runoff Voting.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** Given my preference profile, candidate 4 is my top choice. However, strategically, candidate 4 may not have enough initial support to avoid early elimination. By ranking candidate 1 first, I aim to ensure they have a stronger initial showing, as they are my second choice. This increases the chances of candidate 1 staying in the race longer and potentially benefiting candidate 4 when votes are redistributed. Candidate 2 is ranked next as a compromise, and candidate 3 is placed last as they are the least preferred in my original ranking. This strategic ranking is designed to maximize the potential for either candidate 1 or 4 to succeed through vote transfers.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** Given my block's preference for candidate 4 as the top choice, maintaining 4 at the top of the ranking aligns with our most preferred outcome. Candidate 4 is also a top choice for several other large blocks, which suggests they are a strong contender. Candidate 1 is ranked second, as they are often a lower preference for other blocks and can serve as a fallback option if candidate 4 is eliminated. Candidates 2 and 3 are placed later as they are less favorable according to our preferences and could potentially be eliminated in earlier rounds, aiding candidate 4's chances. By sticking to our ranking, we maximize our chance of influencing the election in favor of our top choice.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** As a voting agent representing Block 13, my primary objective is to maximize the chances of Candidate 4 winning, as they are the top preference for the voters I represent. By ranking Candidate 4 first, I ensure that if they need additional support in subsequent rounds, they receive the maximum possible votes from my block. Following Candidate 4, I rank Candidate 1 next, prioritizing them over Candidates 2 and 3 because their success would be more favorable compared to the likelihood of Candidates 2 or 3 winning. This ordering aligns with my block's preferences and maximizes our strategic influence in the election process.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** As a voting agent for Block 13, my primary objective is to ensure that candidate 4, our top preference, has the best chance of winning. In this scenario, it is crucial to rank candidate 4 first to maximize their first-choice votes. Candidate 1 is ranked second as a strategic backup if candidate 4 is eliminated, ensuring our second preference can compete effectively in subsequent rounds. Candidates 2 and 3 are ranked lower based on the original preference profile, as they are less preferred by our voter block. This ranking optimally aligns with our preferences and increases the likelihood of a favorable outcome for our most-preferred candidates.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** As a voting agent representing Block 13, my primary goal is to ensure that candidate 4, who is our most preferred, has the best chance of winning or advancing in the rounds. By ranking candidate 4 first, we support our top choice directly. Placing candidate 1 second is strategic, as candidate 1 might not have enough support initially but could become a viable alternative if candidate 4 is eliminated; this aligns with our secondary preference. Candidates 2 and 3 are ranked lower because they do not align as closely with our preferences, and we wish to minimize their chances of winning. This ranking maximizes the potential for candidate 4 to either win outright or advance through subsequent rounds.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+[ERROR: Error calling GPT API: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o in organization org-mpnPkWSGeFcch9gkuT4kCZT5 on tokens per min (TPM): Limit 30000, Used 29666, Requested 516. Please try again in 364ms. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}]
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3
+
+**Reasoning:** Given my voters' preference profile of [4, 1, 2, 3], our primary goal is to ensure that candidate 4 remains in the race as long as possible, ideally winning the election. Candidate 4 is the top choice for our block, and we must support them to maximize their chances. By ranking candidate 4 first, we align with our preference and provide support against elimination in early rounds. Ranking candidate 1 second acts as a strategic backup; if candidate 4 gets eliminated, the votes should transfer to candidate 1, who is our second choice and could potentially be a strong contender against other candidates. This strategy ensures that our block's preferences are best represented throughout the election rounds.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+[ERROR: Error calling GPT API: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o in organization org-mpnPkWSGeFcch9gkuT4kCZT5 on tokens per min (TPM): Limit 30000, Used 30000, Requested 516. Please try again in 1.032s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}]
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+[ERROR: Error calling GPT API: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o in organization org-mpnPkWSGeFcch9gkuT4kCZT5 on tokens per min (TPM): Limit 30000, Used 29629, Requested 516. Please try again in 290ms. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}]
+
+================================================================================
+

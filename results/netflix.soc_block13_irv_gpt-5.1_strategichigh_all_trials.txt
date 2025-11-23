@@ -1,0 +1,87 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 1 > 2 > 3  
+
+**Reasoning:** Under the given preference profile, candidate 4 already wins under sincere IRV voting, and our 16-vote block is not pivotal in changing that outcome. Any attempt to strategically demote 4 risks weakening our top choice without producing a better alternative for us. Therefore, the best strategy is to vote sincerely and rank the candidates exactly according to our true preferences: 4 > 1 > 2 > 3.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 3 > 1  
+
+**Reasoning:**  
+With sincere preferences 4 > 1 > 2 > 3, candidate 4 is already very strong in first-place support and is competitive against the others, so keeping 4 first is optimal. The main threat comes from candidate 1, so it is strategically better to rank 2 and 3 above 1 to help them eliminate 1 in later rounds if 4 is ever eliminated, while still giving 4 the strongest possible initial position.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 3 > 1
+
+**Reasoning:** Sincerely, your block prefers 4 > 1 > 2 > 3. However, candidate 4 is already very competitive and likely to reach the final IRV round, while candidate 1 is relatively weak and risks early elimination. By ranking 2 and 3 above 1 (while still keeping 4 first), you help ensure that, if 4 is eliminated in a later round, your transferred support goes to 2 or 3—both of whom are more viable than 1 and preferable to 1 in the aggregate dynamics—thus improving your expected outcome over sincerely backing 1 as your second choice.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:**  
+Sincerely, our block prefers 4 > 1 > 2 > 3, but candidate 3 is the main competitor to 4 and is relatively strong in first-choice support. Ranking 2 above 1 and 3 makes it easier for 2 to stay competitive as an alternative to 3 in later IRV rounds, while still keeping 4 first to maximize 4’s chance of winning. This ordering best protects our top choice (4) and, if 4 is eliminated, promotes 2—who is more viable than 1—as the fallback over our least-preferred candidate 3.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 3 > 1  
+
+**Reasoning:**  
+Given the full profile, candidate 1 is never competitive in the final IRV rounds, so ranking them first would waste our influence. The real contest is among 2, 3, and 4, and candidate 4 can only win if they stay ahead of 3 early and then beat 2 in a later round. By ranking 4 first and then 2 over 3, we maximize the chance that 4 survives and, failing that, that 2 (our next-best viable option) defeats 3 rather than 3 winning.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 3 > 1  
+
+**Reasoning:**  
+Sincerely, your block prefers 4 > 1 > 2 > 3, but in the given profile candidate 1 is very weak and cannot plausibly win under IRV, while 2 and 3 are strong contenders. To maximize the chance that a more acceptable candidate beats less-preferred rivals, it is strategically better to rank the viable alternative 2 above 1 (and above 3), while still keeping your top choice 4 first; this helps 2 in later IRV rounds without sacrificing any chance for 4 to win.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 3 > 1  
+
+**Reasoning:** Under sincere voting, candidate 2 wins; our top choice 4 is not viable, but 2 is much better for us than 3 or especially 1. By ranking 4 first we preserve any (very unlikely) chance for 4, and by putting 2 second we help ensure 2 rather than 3 or 1 survives and ultimately wins in the IRV process. This ordering aligns with our true preferences while also supporting the strongest acceptable alternative (2) in a close multi-round contest.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 3 > 1
+
+**Reasoning:** Sincerely, our block prefers 4 > 1 > 2 > 3, but under IRV candidate 3 is eliminated first, and then 1 is eliminated, leaving a final runoff between 2 and 4, which 4 wins easily. Our 16 votes never affect any elimination threshold or final outcome, so no strategic manipulation can improve on the sincere outcome of electing 4. Given that, we vote to maximize internal preference over the remaining ordering by keeping 4 first and, anticipating 2 as the main rival in the final round, ranking 2 above 3 and 1 is at worst harmless and maintains a plausible beneficial ordering if dynamics changed.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 3 > 1  
+
+**Reasoning:** Sincerely, our block prefers 4 > 1 > 2 > 3, but under the given IRV profile, candidate 4 is already dominant and wins easily; our 16 votes cannot change that. The only leverage we have is over which opponent reaches the final round, and ranking 2 second (instead of 1) helps ensure candidate 2, who is more viable than 1, remains stronger than 1 in earlier eliminations, while still preserving 4 as our top choice. This way, we keep our favorite (4) first and use our lower rankings to mildly disadvantage our least-preferred candidate (1) without risking 4’s victory.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 3 > 1
+
+**Reasoning:** Sincerely, our block prefers 4 > 1 > 2 > 3, but candidate 1 is extremely weak (only 10 first-choice votes) and will be eliminated early regardless of our support, while the real contest is among 2, 3, and 4. By ranking 4 first we still back our top choice, and by promoting 2 above 3 and pushing 1 to the bottom, we help ensure that if 4 is eliminated, 2 (a better compromise for us than 3 or 1) is more likely to survive and eventually beat 3 in later IRV rounds. This ranking gives us the best chance of either electing 4 or, failing that, electing 2 rather than 3 or 1.
+
+================================================================================
+

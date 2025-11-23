@@ -1,0 +1,81 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 2 > 4 > 3
+
+**Reasoning:** Given the objective to achieve the best possible outcome for my voters who prefer candidate 1, I aim to position candidate 1 as strongly as possible. Initially, I rank candidate 1 first, as they are the top preference. Strategically, by ranking candidate 2 second, I ensure that if candidate 1 is eliminated, the votes can transfer to candidate 2, who seems to have a solid base of support across several profiles and might have a better chance of staying in the race longer, thus potentially blocking candidate 3 from winning. Candidate 4 is ranked third as a fallback option, and candidate 3 is ranked last since they are the least preferred option according to my block's preferences.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** My primary objective is to maximize the chances of candidate 1 winning, as they are the top preference in my block's ranking. By ranking candidate 1 first, I ensure that my initial support goes directly to them. Candidate 4 is ranked second as a strategic backup, considering the overall preference profile suggests that candidates 2 and 3 have substantial initial support, possibly making them tougher competition. By ranking candidate 4 over candidates 2 and 3, I aim to potentially help eliminate one of the stronger competitors for candidate 1 in the initial rounds, thus increasing the likelihood that candidate 1 advances further in the runoff process.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+[ERROR: Error calling GPT API: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o in organization org-mpnPkWSGeFcch9gkuT4kCZT5 on tokens per min (TPM): Limit 30000, Used 29911, Requested 516. Please try again in 854ms. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}]
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** As a representative of Block 22, my primary objective is to ensure the best possible outcome for candidate 1, who is ranked highest in our preference. In the initial preference profile, candidate 1 is only the first choice for a very small portion of the electorate, which suggests that they are not likely to win outright in the first round. However, by maintaining the true preference order of 1 > 4 > 2 > 3, this strategy could help candidate 1 gain more second and third-choice votes as other candidates are eliminated, potentially positioning them better in later rounds. Adjusting the order to rank candidate 4 second allows us to support a candidate who might have more initial backing and could help block candidate 3, the least preferred, from gaining majority support.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** As a voting agent for Block 22, my primary goal is to maximize the chances of our top preference, candidate 1, succeeding in the election. Given that candidate 1 is our most preferred, it makes sense to rank them first. Candidate 4 is ranked second because if candidate 1 is eliminated, candidate 4 provides a better strategic alignment with our preferences compared to candidates 2 and 3. By ranking candidate 4 above candidates 2 and 3, we increase the likelihood that a more favorable candidate remains in the race in subsequent rounds, preserving the possibility of our preferred outcomes in later eliminations.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** Given the initial preference profile and my block's strong preference for candidate 1, it is strategic to maintain the original preference order of 1 > 4 > 2 > 3. Candidate 1 is my block's top choice, and by ranking them first, I maximize their chances of avoiding early elimination. Candidate 4 is ranked second, as they might be a viable alternative if candidate 1 is eliminated. This strategic ranking aligns with my block's preferences and aims to keep candidate 1 in the race as long as possible, while still considering candidate 4 as a backup option.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** Given the preference profile of my block, our primary goal is to ensure that candidate 1, our top preference, has the best chance of winning. By ranking candidate 1 as our first choice, we maximize their initial vote count, which is crucial in the first round of Instant Runoff Voting (IRV). Candidate 4 is our second preference and should be ranked accordingly to ensure that if candidate 1 is eliminated, our votes transfer to candidate 4, who is more favorable than candidates 2 and 3. This strategic ranking aligns with our block's preferences and aims to improve the chances of our preferred candidates advancing through each round of elimination.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** Given the Instant Runoff Voting system and my preference for candidate 1 as the top choice, I aim to maximize their chances of advancing in the election. By ranking candidate 1 first, I ensure my votes initially support them directly. Candidate 4 is my second preference, and they appear to have significant support from other voter blocks, which could be beneficial if candidate 1 is eliminated. I keep candidate 2 over candidate 3 higher in my ranking since candidate 3 has strong support from other blocks and poses a threat to candidate 1. This strategy aligns with my objective to prioritize candidate 1's success while maintaining a fallback to candidate 4.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** Given the initial preference of voters I represent, candidate 1 is the top choice. To maximize the chances of candidate 1 advancing, it's strategic to maintain the original ranking. Candidate 1 might not have the strongest first-round presence, but by ranking them first, I ensure that they receive my block’s initial support. By ranking candidate 4 second, I align with the block's secondary preference, which might help in subsequent rounds if candidate 1 is eliminated, while minimizing support for candidates 2 and 3, who are less preferred. This strategy aims to keep candidate 1 in the race as long as possible while hedging against their possible elimination by supporting candidate 4, who also has strong support in the voter profile.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** Given the preference profile of my represented block, candidate 1 is the most preferred, followed by candidate 4, then candidate 2, and lastly candidate 3. Since Instant Runoff Voting (IRV) is used, I aim to maximize the chances of candidate 1 advancing to the final rounds by casting a primary vote for them. This aligns directly with the voter's top preference. By ranking candidate 4 second, I ensure that if candidate 1 is eliminated, the votes are transferred to the next most preferred candidate. This strategy maintains consistency with the original preferences of the block while being mindful of the elimination process inherent in IRV.
+
+================================================================================
+

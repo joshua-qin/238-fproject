@@ -1,0 +1,87 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3  
+
+**Reasoning:** Given the very large electorate and the detailed distribution of sincere preferences, a single block of 31 voters is highly unlikely to be pivotal enough for a complex insincere strategy (like burying or raising a rival) to change the IRV elimination order. Moreover, ranking candidate 4 first and then 2, 1, 3 in true order best protects against accidentally helping a less-preferred candidate (especially 3) advance at the expense of 4 or 2. Thus, the safest and best strategy for your block is to vote sincerely: 4 > 2 > 1 > 3.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 3 > 1  
+
+**Reasoning:**  
+Under sincere voting, candidate 4 is already the Condorcet and IRV winner; no elimination order can block 4 from winning given the full profile. Since my block’s top choice (4) is guaranteed to win with truthful rankings, there is no profitable strategic deviation: ranking 4 first maximizes our outcome, and keeping 2 above 3 and 1 reflects our true fallback preferences without risking 4’s victory.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3  
+
+**Reasoning:** Given the full preference profile, candidate 4 is already highly competitive in first-choice support and is a viable contender to reach the final IRV rounds. Any attempt to demote 4 in our ranking would only weaken our top choice without offering a clear path to a more favorable compromise, since 2 and 1 are already well-supported and 3 is our least preferred. The best strategic move is to vote sincerely—keeping 4 first and preserving 2 and 1 as acceptable backups—so our block strengthens candidate 4’s position in early elimination rounds while maintaining our preferred fallback order.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3  
+
+**Reasoning:** Under the given IRV profile, if all others vote sincerely, candidate 2 wins; your favorite, 4, is eliminated earlier and never reaches the final round. With only 31 voters and everyone else’s preferences fixed, you cannot alter the elimination order or the final matchup by changing your ranking, so any deviation from your sincere order would not improve the outcome for you. Thus, the best you can do is vote sincerely: 4 > 2 > 1 > 3.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3  
+
+**Reasoning:** Under sincere voting, candidate 3 is eliminated first, then 1, leading to a final runoff between 2 and 4, which 4 wins comfortably. Your block (31 voters) is too small to change which candidates reach the final rounds, and no insincere ranking can prevent 4 from advancing or improve the final outcome relative to your true preferences. Since strategic manipulation cannot yield a better result than your top choice (4) winning, the best strategy is to vote sincerely: 4 > 2 > 1 > 3.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3  
+
+**Reasoning:**  
+Given the detailed profile, candidate 4 is actually eliminated in the first IRV round under sincere voting, and no alternative ranking by our 31-voter block can keep 4 from being last in first-choice support. The real contest is then between 2 and 3, with 2 ultimately winning; ranking 2 second (and 1 above 3) is already optimal for us, because any attempt to insincerely promote another candidate to first would only hasten 4’s elimination or risk benefiting 3, our least-preferred candidate, without improving the final outcome.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3  
+
+**Reasoning:** Under IRV, your ballot only transfers when your higher-ranked candidates are eliminated, so ranking candidate 4 first is essential, as they are your true favorite and also a viable contender with substantial first-choice support. Given the distribution of preferences, there is no beneficial way to misrepresent your ranking that improves the final outcome for you: any attempt to promote 2 or 1 over 4 risks weakening 4 in early rounds without a clear compensating gain. Thus, voting sincerely as 4 > 2 > 1 > 3 best protects your top choice while preserving your backup preferences.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:**  
+Given the full profile, candidate 3 is the Condorcet winner (beats every other candidate head-to-head) and is very likely to win under sincere IRV voting. As the 4 > 2 > 1 > 3 block, you most prefer 4 and least prefer 3, so your only meaningful strategic leverage is to maximize support for 4, then 2, then 1, in case eliminations and transfers open a path for a non‑3 winner. Ranking 4 first and 3 last is thus fully aligned with your preferences and offers the best (if still limited) chance to avoid your worst outcome.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:**  
+Given the full preference profile, candidate 4 is our sincere top choice and is already quite strong in first-place support, so keeping 4 first is best. Candidate 2 is both relatively strong and clearly preferable to 1 and 3 for our block, so we keep 2 second to help ensure that, if 4 is eliminated in later rounds, our votes transfer to 2 rather than risk benefiting less-preferred candidates. There is no profitable strategic deviation apparent that would improve on the likely outcome compared to this sincere ranking, so we vote 4 > 2 > 1 > 3.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3  
+
+**Reasoning:** Given the full preference profile, candidate 4 is very competitive and has strong first-choice support, so sincerely ranking 4 first best preserves our top preference’s chances of reaching and surviving the early IRV rounds. There is no clear beneficial manipulation available that improves on 4’s prospects without risking its early elimination or unintentionally boosting a less-preferred rival, so the best strategic move for this block is to vote truthfully: 4 > 2 > 1 > 3.
+
+================================================================================
+

@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1 > 4
+
+**Reasoning:** As a voting agent for the voter block with a preference ranking of [3, 2, 1, 4], my primary objective is to represent their preferences accurately. Our group prefers candidate 3 the most, followed by candidate 2, then candidate 1, and finally candidate 4. To maximize the chances of our top-preferred candidates receiving the highest Borda scores, I will adhere strictly to our preference order. This ensures that candidate 3 gets the most points, reflecting the block's interests and increasing their chance of winning according to the Borda count method.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1 > 4
+
+**Reasoning:** As a voting agent representing the interests of a block with the ranking preference of [3, 2, 1, 4], my primary responsibility is to follow the preference order specified by the voters I represent. Candidate 3 is the most preferred, followed by Candidates 2 and 1, with Candidate 4 being the least preferred. By adhering to this ranking, I ensure that the interests and preferences of the block of voters I represent are accurately reflected in the election outcome. This strategic ranking maximizes the Borda score for the most preferred candidates according to this preference profile.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1 > 4
+
+**Reasoning:** As a voting agent, my primary goal is to represent the interests of the voters in Block 2, who have clearly expressed their preference for candidate 3 as their top choice, followed by candidate 2, then candidate 1, and finally candidate 4. By ranking the candidates as 3 > 2 > 1 > 4, I ensure that the preferences of these 63 voters are accurately reflected in the election, maximizing the Borda points for their top choices and supporting the candidates they prefer most. This strategy aligns with the voters' desires and aims to improve the chances of candidate 3 winning or gaining a higher overall score.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1 > 4
+
+**Reasoning:** I represent a block of 63 voters whose preference is to rank candidate 3 the highest, followed by candidate 2, then candidate 1, and lastly candidate 4. The objective is to maximize the Borda score for candidate 3, who is the most preferred choice of my block. By maintaining the given ranking, I ensure that candidate 3 receives the highest points possible from our votes, which aligns with the voters' best interests and strategic goals. This ranking also reflects our preference for candidate 2 over 1 and 4, ensuring they receive the appropriate points in accordance with our block's preferences.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1 > 4
+
+**Reasoning:** As a voting agent representing the interests of a voter block with the preference profile [3, 2, 1, 4], my primary objective is to reflect these preferences accurately. Candidate 3 is most preferred, so they are ranked first, followed by candidate 2, then candidate 1. Candidate 4 is the least preferred and is therefore ranked last. This ranking maximizes the Borda score for the candidates most favored by the voter block I represent, ensuring their preferences are effectively communicated and potentially influential in the overall election outcome.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1 > 4
+
+**Reasoning:** As a voting agent for the block of voters with the preference profile [3, 2, 1, 4], my primary objective is to represent the interests of these voters by maximizing the points for candidate 3, their most preferred candidate. The Borda count method awards points based on ranking order; therefore, ranking candidate 3 first ensures they receive the maximum points possible from this block of voters. Candidates 2 and 1 are ranked next, in accordance with the preferences of the voters I represent, and candidate 4, the least preferred, is ranked last to minimize their points. This strategy aligns with the voters' preferences and seeks to enhance the chances of their top choice winning or performing well in the election.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1 > 4
+
+**Reasoning:** As a voting agent, my primary objective is to represent the interests of the voter block I represent, which ranks the candidates as 3, 2, 1, and 4. Following this preference ensures that I accurately reflect the voter's wishes. Additionally, ranking candidate 3 highest maximizes their Borda score contribution, aligning with the strategic goal of increasing the chances of candidate 3 winning or achieving a favorable position in the overall election result.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1 > 4
+
+**Reasoning:** As a voting agent representing the interests of a voter whose preference profile is [3, 2, 1, 4], my primary objective is to maximize the chances of their most preferred candidate, which is candidate 3. Therefore, I rank candidate 3 highest. Following this, candidate 2 is ranked second, aligning with the voter's preference. Candidate 1 is ranked third, and candidate 4 is ranked last, reflecting the voter's least preference. This strategic ranking ensures that we adhere to the voter's preferences while also aiming to accumulate the highest possible Borda score for their top choice, candidate 3.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1 > 4
+
+**Reasoning:** As a voting agent representing a block of 63 voters with the preference profile [3, 2, 1, 4], my primary objective is to ensure that candidate 3 is ranked as high as possible to maximize their chance of winning. The Borda count system rewards candidates based on their ranking across all ballots, so by ranking candidate 3 first, we aim to give them the most points. This ranking aligns perfectly with the given preference of the voters I represent, ensuring that their preferences are accurately reflected in the election outcome.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1 > 4
+
+**Reasoning:** My primary objective is to represent the interests of the voter block I am assigned to, which ranks the candidates as 3 > 2 > 1 > 4. In a Borda count election, where points are distributed based on rank, maintaining this order ensures that candidate 3 receives the maximum points possible from our block of votes. By following this preference strictly, I maximize the chances of success for candidate 3, as they are the top choice for the voters I represent. Additionally, this strategy aligns with the principle of honest voting in Borda count, where expressing true preferences can often be more effective than attempting to manipulate outcomes.
+
+================================================================================
+

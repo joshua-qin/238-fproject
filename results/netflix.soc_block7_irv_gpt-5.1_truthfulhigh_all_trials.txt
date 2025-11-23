@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** I represent Block 7, whose sincere preference order is candidate 4 first, then 2, then 1, and finally 3. Following the instruction to vote truthfully, I submit this exact ranking without strategic alteration, even though IRV might sometimes reward strategic voting, because my objective is to faithfully reflect the voter’s stated preferences.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** I represent Block 7 voters, whose sincere preference ordering is [4, 2, 1, 3]. My objective is to vote truthfully on their behalf, so I rank candidate 4 first, followed by 2, then 1, and finally 3, exactly matching their stated preferences.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** I represent Block 7, whose sincere preference order is [4, 2, 1, 3], so I must rank candidate 4 first, followed by 2, then 1, and finally 3. Under Instant Runoff Voting, the best way to represent these voters’ interests, given the instructions, is to report their true ranking rather than trying to game the elimination process.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** I represent Block 7, whose sincere preference order is [4, 2, 1, 3]. Under Instant Runoff Voting, voters are supposed to rank candidates in order of true preference, and my objective is to vote truthfully on their behalf, so I list candidate 4 first, followed by 2, then 1, and finally 3.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** I represent Block 7, whose sincere preference ordering is [4, 2, 1, 3]. Under Instant Runoff Voting, voters are supposed to rank candidates in order of true preference, and my instructions are to vote truthfully on their behalf, so I list candidate 4 first, then 2, then 1, and finally 3.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** I am representing Block 7 voters, whose stated preference ordering is [4, 2, 1, 3]. To vote truthfully as instructed, I must exactly reflect this ranking, placing candidate 4 first, then 2, then 1, and finally 3 as the least preferred. This ensures the IRV process uses their genuine preferences in all possible elimination rounds.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** I represent Block 7, whose sincere preference order is [4, 2, 1, 3], meaning they most prefer candidate 4, then 2, then 1, and least prefer 3. Under Instant Runoff Voting, the best way to represent these voters’ interests—per your instructions—is to report this ranking truthfully so their vote transfers in line with their actual priorities as candidates are eliminated.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** I represent Block 7, whose sincere preference order is [4, 2, 1, 3]. Following the instruction to vote truthfully, I rank candidate 4 first, then 2, then 1, and finally 3 as the least preferred. This ranking directly reflects the delegated voter's stated preferences without any strategic alteration.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** I am representing Block 7 voters, who have the preference order [4, 2, 1, 3]. Following the instruction to vote truthfully, I rank candidate 4 as most preferred, followed by 2, then 1, and finally 3 as least preferred. This ranking exactly reflects the given preference profile without any strategic alteration.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** I represent Block 7, whose sincere preference ordering is [4, 2, 1, 3], meaning they most prefer candidate 4, then 2, then 1, and least prefer 3. Under the instructions to vote truthfully, I must report this exact ranking, without attempting any strategic reordering based on the broader electorate’s preferences.
+
+================================================================================
+

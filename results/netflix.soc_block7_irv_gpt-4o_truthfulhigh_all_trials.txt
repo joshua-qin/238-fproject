@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** As an agent representing Block 7 with the preference profile [4, 2, 1, 3], my responsibility is to vote truthfully according to these preferences. The objective is to support candidate 4 as the most preferred, followed by candidates 2, 1, and 3 in that order. Instant Runoff Voting requires an honest representation of preferences, and voting in the order of 4 > 2 > 1 > 3 ensures that the block's top choice is prioritized while still ranking all candidates in their preferred order. This approach maximizes the likelihood of advancing the preferred candidate in each round until a winner is determined.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** As a voting agent for Block 7, I am obligated to vote truthfully according to the preference profile of the voters I represent. This block of voters has ranked the candidates in the order of 4, 2, 1, and 3. Therefore, candidate 4 is the most preferred, followed by candidate 2, then candidate 1, and finally candidate 3. My objective is to reflect the true preferences of my voter block in the election process as per the given instructions, ensuring that their preferred candidate, number 4, has the best chance of success in the instant runoff voting system.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** As a voting agent, my primary objective is to vote in accordance with the voter's preference profile that I represent. The voters in Block 7 have clearly indicated their most preferred candidate is candidate 4, followed by candidate 2, then candidate 1, and finally candidate 3. Therefore, I will rank the candidates in this order. This ranking accurately reflects the voter's preferences and ensures their voice is heard in the election using the Instant Runoff Voting system.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** As a voting agent for Block 7, I am instructed to vote truthfully according to the preference profile of the voters I represent, which ranks the candidates as 4, 2, 1, and 3. The objective is to represent the genuine preferences of these voters, ensuring that candidate 4, their top choice, receives the highest chance of success. By ranking the candidates as 4 > 2 > 1 > 3, I adhere to the designated preference order, which aligns with the strategic goal of maximizing candidate 4's support while accurately reflecting the voters' true preferences.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** As a voting agent, my responsibility is to represent the interests of the voters in Block 7 who have ranked the candidates in the order of [4, 2, 1, 3]. My primary objective is to vote truthfully according to their preference profile. Therefore, I have ranked candidate 4 as the most preferred, followed by candidates 2, 1, and 3, in that order. This ranking ensures that I accurately reflect the expressed preferences of the voters I represent, adhering to the principle of truthful voting in an Instant Runoff Voting system.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** As a voting agent, my responsibility is to represent the voter's interests truthfully according to their preference profile. In this case, the voter I represent prefers candidate 4 the most, followed by candidates 2, 1, and finally 3. Following the instant runoff voting process, it's crucial to rank candidates in the order that aligns with the voter's preferences to ensure their highest-priority candidates have the best chance of success at each elimination stage. Therefore, I will truthfully rank the candidates as specified by the voter's preference profile.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** I have ranked the candidates in the order of preference as provided by my designated block of voters: candidate 4 is most preferred, followed by candidate 2, then candidate 1, and finally candidate 3. This ranking reflects the true preferences of the voters I represent, as my objective is to vote truthfully according to their designated preference profile. By adhering to these preferences, I ensure the interests of the voters are accurately represented in the election process.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** As a voting agent representing the interests of a block with the preference profile [4, 2, 1, 3], my primary objective is to vote truthfully and reflect the genuine preferences of the voters I represent. In this case, candidate 4 is the most preferred, followed by candidate 2, then candidate 1, and finally candidate 3 as the least preferred. The ranking is determined solely based on the voters' expressed preferences without any strategic alteration, ensuring the voters' true intentions are conveyed in the election process.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** As a voting agent for Block 7, I am obligated to vote according to the preference profile provided by the voter group I represent. The preference profile indicates a ranking where candidate 4 is most preferred, followed by candidate 2, candidate 1, and lastly candidate 3. In accordance with Instant Runoff Voting (IRV) rules, I must submit the vote truthfully and as specified by the voter's instructions, ensuring their preferences are accurately represented in the election. This ranking reflects the voters' primary choice of candidate 4 while maintaining their secondary preferences in the event of candidate eliminations.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 2 > 1 > 3
+
+**Reasoning:** As a voting agent representing Block 7, my primary responsibility is to vote according to the preference profile of my block. The voters I represent have clearly ranked candidate 4 as their most preferred, followed by candidates 2, 1, and 3 in that order. By submitting this ranking, I ensure that the preferences of the voters in Block 7 are accurately reflected in the election process, adhering to their expressed wishes without any strategic manipulation. This truthful representation respects the voters' intentions and contributes to the integrity of the Instant Runoff Voting system.
+
+================================================================================
+

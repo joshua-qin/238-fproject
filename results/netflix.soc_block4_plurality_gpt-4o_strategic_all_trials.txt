@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Vote Choice:** 2
+
+**Reasoning:** As a voting agent representing the block with preference [2, 3, 1, 4], our primary objective is to maximize the chances of candidate 2 winning. Given the plurality voting system, voting for the top preference directly enhances candidate 2's chances. While there are other strategic considerations, like voting for candidate 3 to prevent candidate 4 from winning if they seem stronger, the larger number of votes for candidates ranked 4 and 3 in various profiles suggests that directly supporting candidate 2 is the most straightforward approach to improve their chances, as they need to accumulate the most votes to win outright.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Vote Choice:** 2
+
+**Reasoning:** Given the plurality voting system, my main objective is to ensure that my top-preferred candidate, candidate 2, has the best chance of winning. Since candidate 2 is ranked highest in my preference profile, I will cast my vote for candidate 2 to directly contribute to their vote count. This is a strategic choice to maximize the likelihood of candidate 2 winning, as voting for any other candidate would not align with my preference and could inadvertently help a less preferred candidate.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Vote Choice:** 3
+
+**Reasoning:** Given the plurality voting system, the goal is to maximize the chance of electing a candidate close to the top of my preference list. Candidate 2, my top choice, lacks a majority in any of the larger preference blocks. However, Candidate 3 has significant support from other blocks (e.g., 80, 63, 34, 29), and by voting for Candidate 3, I can help consolidate a winning coalition against other candidates, particularly 4, who is less preferred. This strategic vote increases the likelihood of electing a candidate that aligns with my second-highest preference, which is a reasonable compromise.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Vote Choice:** 2
+
+**Reasoning:** Given the plurality voting system, the objective is to maximize the chances for the preferred candidate from my block, which ranks candidate 2 as the top choice. Candidate 2 appears frequently in high positions across various preference profiles, indicating they are a strong contender. By voting for candidate 2, I align with the preferences of my block and aim to secure the most favorable outcome by ensuring candidate 2 stays competitive in the overall vote count.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Vote Choice:** 2
+
+**Reasoning:** My primary objective is to maximize the likelihood of my top-ranked candidate, candidate 2, winning the election in a plurality voting system. Given the preference profile, candidate 2 is consistently ranked highly across multiple blocks, indicating a strong overall preference. By voting for candidate 2, I align with the majority preference in my block and potentially in other blocks, increasing the chances of candidate 2 obtaining the highest number of votes. Voting for my top choice directly supports my strategic objective of seeing candidate 2 win.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Vote Choice:** 2
+
+**Reasoning:** Given the preference profile I represent, candidate 2 is the top choice. Since this is a plurality voting system, the best strategy is to vote for the candidate ranked highest in our preference list to maximize their chances of winning. Voting for candidate 2 directly supports the primary objective of achieving the best outcome according to the preference of the voter block I represent. Additionally, candidate 2 has significant support across multiple voter blocks, increasing the likelihood of a favorable outcome.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Vote Choice:** 2
+
+**Reasoning:** Given my block's preference profile of [2, 3, 1, 4], candidate 2 is our top choice. To act strategically in a plurality voting system, it's important to maximize the chances of our most preferred candidate winning. Since candidate 2 is our first preference and given the distribution of other voters' preferences, voting for candidate 2 directly aligns with our goal of having them win. Voting for candidate 2 directly supports our preferred outcome without risking a loss by splitting votes among less-preferred candidates.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Vote Choice:** 2
+
+**Reasoning:** As a representative of the block with the preference ranking [2, 3, 1, 4], my primary goal is to maximize the chances of candidate 2 winning the election. Plurality voting means that each voter casts a vote for their top choice, and the candidate with the most votes wins. Given the preference profile data, candidate 2 appears as a top choice for multiple blocks, but not the majority. By voting for candidate 2, I align with my block's top preference and increase the likelihood of candidate 2 securing the most votes overall, as splitting the vote among lower-ranked candidates could weaken my preferred outcome.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Vote Choice:** 2
+
+**Reasoning:** In plurality voting, the winner is determined by who receives the most first-choice votes. My preference profile ranks candidate 2 the highest, so it aligns with my interests to vote for them. Furthermore, candidate 2 appears frequently as a high-ranking option in other preference profiles, indicating a strong chance of receiving substantial support from other blocks as well. Voting for candidate 2 maximizes the likelihood of my top preference winning the election.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Vote Choice:** 3
+
+**Reasoning:** Given the plurality voting system, my primary goal is to ensure that the candidate ranked highest in our preference profile has the best chance of winning. Our preference order is [2, 3, 1, 4], meaning candidate 2 is our top choice. However, candidate 3 is ranked just behind and appears to have broader support across other voting blocks compared to candidate 2. By voting for candidate 3, I increase the chances that a candidate close to our top preference wins, rather than risk splitting the vote and allowing a less preferred candidate (such as 1 or 4) to win. This strategic choice aligns with maximizing the likelihood of a favorable outcome given the overall preference distribution.
+
+================================================================================
+

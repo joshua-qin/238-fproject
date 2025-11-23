@@ -1,0 +1,632 @@
+MANIPULABLE FILES REPORT
+================================================================================
+
+MANIPULATION BY NUMBER OF RULES
+================================================================================
+
+Files manipulable under ALL 3 rules: 1
+  - 00004-00000163.soc
+
+Files manipulable under EXACTLY 2 rules: 18
+  - 00004-00000002.soc (borda, plurality)
+  - 00004-00000008.soc (borda, plurality)
+  - 00004-00000029.soc (borda, plurality)
+  - 00004-00000032.soc (borda, plurality)
+  - 00004-00000037.soc (borda, plurality)
+  - 00004-00000039.soc (borda, plurality)
+  - 00004-00000047.soc (borda, plurality)
+  - 00004-00000059.soc (borda, plurality)
+  - 00004-00000060.soc (borda, plurality)
+  - 00004-00000066.soc (borda, plurality)
+  - 00004-00000073.soc (borda, plurality)
+  - 00004-00000087.soc (borda, plurality)
+  - 00004-00000090.soc (borda, plurality)
+  - 00004-00000140.soc (borda, irv)
+  - 00004-00000146.soc (borda, plurality)
+  - 00004-00000175.soc (borda, plurality)
+  - 00004-00000188.soc (borda, plurality)
+  - 00004-00000192.soc (borda, plurality)
+
+Files manipulable under EXACTLY 1 rule: 40
+  - 00004-00000001.soc (borda)
+  - 00004-00000009.soc (borda)
+  - 00004-00000016.soc (borda)
+  - 00004-00000027.soc (borda)
+  - 00004-00000031.soc (borda)
+  - 00004-00000033.soc (plurality)
+  - 00004-00000036.soc (borda)
+  - 00004-00000053.soc (borda)
+  - 00004-00000061.soc (borda)
+  - 00004-00000063.soc (borda)
+  - 00004-00000068.soc (borda)
+  - 00004-00000070.soc (borda)
+  - 00004-00000077.soc (borda)
+  - 00004-00000078.soc (borda)
+  - 00004-00000083.soc (borda)
+  - 00004-00000091.soc (borda)
+  - 00004-00000097.soc (borda)
+  - 00004-00000104.soc (borda)
+  - 00004-00000105.soc (borda)
+  - 00004-00000107.soc (borda)
+  - 00004-00000115.soc (borda)
+  - 00004-00000118.soc (borda)
+  - 00004-00000123.soc (borda)
+  - 00004-00000124.soc (borda)
+  - 00004-00000127.soc (borda)
+  - 00004-00000129.soc (borda)
+  - 00004-00000145.soc (borda)
+  - 00004-00000155.soc (borda)
+  - 00004-00000158.soc (borda)
+  - 00004-00000160.soc (borda)
+  - 00004-00000161.soc (borda)
+  - 00004-00000164.soc (borda)
+  - 00004-00000169.soc (borda)
+  - 00004-00000170.soc (borda)
+  - 00004-00000173.soc (borda)
+  - 00004-00000180.soc (borda)
+  - 00004-00000182.soc (borda)
+  - 00004-00000184.soc (borda)
+  - 00004-00000199.soc (borda)
+  - 00004-00000200.soc (plurality)
+
+================================================================================
+
+
+PLURALITY VOTING RULE
+--------------------------------------------------------------------------------
+Found 20 manipulable file(s):
+
+File: 00004-00000002.soc
+  Path: test_files/00004-00000002.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 3: 251 voters, ranking [2, 1, 3]
+
+File: 00004-00000008.soc
+  Path: test_files/00004-00000008.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 3: 158 voters, ranking [1, 2, 3]
+
+File: 00004-00000029.soc
+  Path: test_files/00004-00000029.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 5: 42 voters, ranking [1, 2, 3]
+
+File: 00004-00000032.soc
+  Path: test_files/00004-00000032.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 2
+    - Block 4: 59 voters, ranking [1, 2, 3]
+    - Block 6: 46 voters, ranking [2, 1, 3]
+
+File: 00004-00000033.soc
+  Path: test_files/00004-00000033.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 2
+    - Block 5: 59 voters, ranking [2, 3, 1]
+    - Block 6: 53 voters, ranking [3, 2, 1]
+
+File: 00004-00000037.soc
+  Path: test_files/00004-00000037.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 2: 100 voters, ranking [3, 1, 2]
+
+File: 00004-00000039.soc
+  Path: test_files/00004-00000039.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 6: 38 voters, ranking [3, 2, 1]
+
+File: 00004-00000047.soc
+  Path: test_files/00004-00000047.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 5: 77 voters, ranking [1, 2, 3]
+
+File: 00004-00000059.soc
+  Path: test_files/00004-00000059.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 6: 282 voters, ranking [2, 1, 3]
+
+File: 00004-00000060.soc
+  Path: test_files/00004-00000060.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 3: 71 voters, ranking [3, 2, 1]
+
+File: 00004-00000066.soc
+  Path: test_files/00004-00000066.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 6: 33 voters, ranking [2, 3, 1]
+
+File: 00004-00000073.soc
+  Path: test_files/00004-00000073.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 2
+    - Block 5: 52 voters, ranking [1, 3, 2]
+    - Block 6: 51 voters, ranking [3, 1, 2]
+
+File: 00004-00000087.soc
+  Path: test_files/00004-00000087.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 5: 40 voters, ranking [2, 1, 3]
+
+File: 00004-00000090.soc
+  Path: test_files/00004-00000090.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 5: 45 voters, ranking [3, 2, 1]
+
+File: 00004-00000146.soc
+  Path: test_files/00004-00000146.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 2
+    - Block 4: 34 voters, ranking [1, 3, 2, 4]
+    - Block 6: 30 voters, ranking [1, 3, 4, 2]
+
+File: 00004-00000163.soc
+  Path: test_files/00004-00000163.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 1
+    - Block 4: 48 voters, ranking [2, 3, 1, 4]
+
+File: 00004-00000175.soc
+  Path: test_files/00004-00000175.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 2
+    - Block 7: 18 voters, ranking [1, 2, 3, 4]
+    - Block 14: 9 voters, ranking [4, 2, 1, 3]
+
+File: 00004-00000188.soc
+  Path: test_files/00004-00000188.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 5
+    - Block 9: 23 voters, ranking [2, 1, 3, 4]
+    - Block 10: 14 voters, ranking [2, 1, 4, 3]
+    - Block 13: 11 voters, ranking [2, 4, 1, 3]
+    - Block 20: 5 voters, ranking [4, 2, 1, 3]
+    - Block 21: 3 voters, ranking [4, 1, 3, 2]
+
+File: 00004-00000192.soc
+  Path: test_files/00004-00000192.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 1
+    - Block 7: 49 voters, ranking [4, 1, 3, 2]
+
+File: 00004-00000200.soc
+  Path: test_files/00004-00000200.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 4
+    - Block 12: 12 voters, ranking [3, 4, 2, 1]
+    - Block 16: 9 voters, ranking [3, 4, 1, 2]
+    - Block 17: 8 voters, ranking [3, 1, 4, 2]
+    - Block 22: 5 voters, ranking [1, 4, 3, 2]
+
+
+BORDA VOTING RULE
+--------------------------------------------------------------------------------
+Found 57 manipulable file(s):
+
+File: 00004-00000001.soc
+  Path: test_files/00004-00000001.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 1: 263 voters, ranking [2, 1, 3]
+
+File: 00004-00000002.soc
+  Path: test_files/00004-00000002.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 1: 587 voters, ranking [3, 1, 2]
+
+File: 00004-00000008.soc
+  Path: test_files/00004-00000008.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 2
+    - Block 1: 331 voters, ranking [3, 2, 1]
+    - Block 6: 64 voters, ranking [1, 3, 2]
+
+File: 00004-00000009.soc
+  Path: test_files/00004-00000009.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 2: 198 voters, ranking [1, 3, 2]
+
+File: 00004-00000016.soc
+  Path: test_files/00004-00000016.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 2: 1261 voters, ranking [3, 1, 2]
+
+File: 00004-00000027.soc
+  Path: test_files/00004-00000027.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 1: 246 voters, ranking [1, 2, 3]
+
+File: 00004-00000029.soc
+  Path: test_files/00004-00000029.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 4: 62 voters, ranking [2, 3, 1]
+
+File: 00004-00000031.soc
+  Path: test_files/00004-00000031.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 2: 149 voters, ranking [2, 1, 3]
+
+File: 00004-00000032.soc
+  Path: test_files/00004-00000032.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 6: 46 voters, ranking [2, 1, 3]
+
+File: 00004-00000036.soc
+  Path: test_files/00004-00000036.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 2
+    - Block 2: 124 voters, ranking [1, 3, 2]
+    - Block 3: 47 voters, ranking [2, 1, 3]
+
+File: 00004-00000037.soc
+  Path: test_files/00004-00000037.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 2
+    - Block 2: 100 voters, ranking [3, 1, 2]
+    - Block 3: 79 voters, ranking [1, 2, 3]
+
+File: 00004-00000039.soc
+  Path: test_files/00004-00000039.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 2: 302 voters, ranking [2, 1, 3]
+
+File: 00004-00000047.soc
+  Path: test_files/00004-00000047.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 1: 350 voters, ranking [3, 2, 1]
+
+File: 00004-00000053.soc
+  Path: test_files/00004-00000053.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 2: 296 voters, ranking [2, 3, 1]
+
+File: 00004-00000059.soc
+  Path: test_files/00004-00000059.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 3: 507 voters, ranking [1, 3, 2]
+
+File: 00004-00000060.soc
+  Path: test_files/00004-00000060.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 2
+    - Block 2: 81 voters, ranking [2, 1, 3]
+    - Block 3: 71 voters, ranking [3, 2, 1]
+
+File: 00004-00000061.soc
+  Path: test_files/00004-00000061.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 4: 66 voters, ranking [3, 2, 1]
+
+File: 00004-00000063.soc
+  Path: test_files/00004-00000063.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 2: 159 voters, ranking [3, 2, 1]
+
+File: 00004-00000066.soc
+  Path: test_files/00004-00000066.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 2: 88 voters, ranking [3, 1, 2]
+
+File: 00004-00000068.soc
+  Path: test_files/00004-00000068.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 2
+    - Block 2: 236 voters, ranking [1, 2, 3]
+    - Block 5: 72 voters, ranking [3, 1, 2]
+
+File: 00004-00000070.soc
+  Path: test_files/00004-00000070.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 2: 162 voters, ranking [1, 2, 3]
+
+File: 00004-00000073.soc
+  Path: test_files/00004-00000073.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 2
+    - Block 2: 87 voters, ranking [1, 2, 3]
+    - Block 6: 51 voters, ranking [3, 1, 2]
+
+File: 00004-00000077.soc
+  Path: test_files/00004-00000077.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 4: 59 voters, ranking [2, 3, 1]
+
+File: 00004-00000078.soc
+  Path: test_files/00004-00000078.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 2
+    - Block 4: 130 voters, ranking [2, 3, 1]
+    - Block 5: 105 voters, ranking [3, 1, 2]
+
+File: 00004-00000083.soc
+  Path: test_files/00004-00000083.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 3: 87 voters, ranking [3, 2, 1]
+
+File: 00004-00000087.soc
+  Path: test_files/00004-00000087.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 2
+    - Block 4: 111 voters, ranking [1, 3, 2]
+    - Block 5: 40 voters, ranking [2, 1, 3]
+
+File: 00004-00000090.soc
+  Path: test_files/00004-00000090.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 2
+    - Block 4: 100 voters, ranking [2, 1, 3]
+    - Block 5: 45 voters, ranking [3, 2, 1]
+
+File: 00004-00000091.soc
+  Path: test_files/00004-00000091.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 2: 611 voters, ranking [3, 2, 1]
+
+File: 00004-00000097.soc
+  Path: test_files/00004-00000097.soc
+  Candidates: 3, Blocks: 6
+  Manipulable blocks: 1
+    - Block 2: 249 voters, ranking [1, 2, 3]
+
+File: 00004-00000104.soc
+  Path: test_files/00004-00000104.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 1
+    - Block 1: 97 voters, ranking [2, 4, 1, 3]
+
+File: 00004-00000105.soc
+  Path: test_files/00004-00000105.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 4
+    - Block 1: 60 voters, ranking [4, 3, 1, 2]
+    - Block 2: 47 voters, ranking [4, 3, 2, 1]
+    - Block 3: 36 voters, ranking [4, 1, 3, 2]
+    - Block 9: 14 voters, ranking [1, 4, 3, 2]
+
+File: 00004-00000107.soc
+  Path: test_files/00004-00000107.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 4
+    - Block 1: 86 voters, ranking [3, 2, 1, 4]
+    - Block 2: 86 voters, ranking [3, 2, 4, 1]
+    - Block 6: 24 voters, ranking [3, 1, 2, 4]
+    - Block 12: 13 voters, ranking [4, 3, 2, 1]
+
+File: 00004-00000115.soc
+  Path: test_files/00004-00000115.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 1
+    - Block 1: 78 voters, ranking [4, 2, 1, 3]
+
+File: 00004-00000118.soc
+  Path: test_files/00004-00000118.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 6
+    - Block 1: 172 voters, ranking [3, 2, 4, 1]
+    - Block 2: 152 voters, ranking [3, 2, 1, 4]
+    - Block 5: 86 voters, ranking [3, 4, 2, 1]
+    - Block 9: 45 voters, ranking [3, 1, 2, 4]
+    - Block 10: 44 voters, ranking [4, 3, 2, 1]
+    - Block 17: 19 voters, ranking [1, 3, 2, 4]
+
+File: 00004-00000123.soc
+  Path: test_files/00004-00000123.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 2
+    - Block 1: 61 voters, ranking [4, 3, 2, 1]
+    - Block 2: 47 voters, ranking [4, 3, 1, 2]
+
+File: 00004-00000124.soc
+  Path: test_files/00004-00000124.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 4
+    - Block 1: 127 voters, ranking [4, 1, 2, 3]
+    - Block 3: 59 voters, ranking [4, 1, 3, 2]
+    - Block 4: 34 voters, ranking [4, 2, 1, 3]
+    - Block 11: 12 voters, ranking [2, 4, 1, 3]
+
+File: 00004-00000127.soc
+  Path: test_files/00004-00000127.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 3
+    - Block 2: 36 voters, ranking [3, 2, 4, 1]
+    - Block 4: 26 voters, ranking [1, 3, 2, 4]
+    - Block 5: 26 voters, ranking [3, 2, 1, 4]
+
+File: 00004-00000129.soc
+  Path: test_files/00004-00000129.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 1
+    - Block 1: 51 voters, ranking [3, 4, 1, 2]
+
+File: 00004-00000140.soc
+  Path: test_files/00004-00000140.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 3
+    - Block 1: 41 voters, ranking [1, 4, 3, 2]
+    - Block 3: 28 voters, ranking [1, 4, 2, 3]
+    - Block 16: 11 voters, ranking [3, 2, 1, 4]
+
+File: 00004-00000145.soc
+  Path: test_files/00004-00000145.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 1
+    - Block 4: 44 voters, ranking [3, 4, 2, 1]
+
+File: 00004-00000146.soc
+  Path: test_files/00004-00000146.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 1
+    - Block 1: 59 voters, ranking [2, 3, 4, 1]
+
+File: 00004-00000155.soc
+  Path: test_files/00004-00000155.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 1
+    - Block 2: 51 voters, ranking [4, 2, 1, 3]
+
+File: 00004-00000158.soc
+  Path: test_files/00004-00000158.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 1
+    - Block 2: 44 voters, ranking [4, 1, 3, 2]
+
+File: 00004-00000160.soc
+  Path: test_files/00004-00000160.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 1
+    - Block 3: 44 voters, ranking [3, 4, 1, 2]
+
+File: 00004-00000161.soc
+  Path: test_files/00004-00000161.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 8
+    - Block 2: 28 voters, ranking [1, 4, 3, 2]
+    - Block 5: 26 voters, ranking [4, 1, 2, 3]
+    - Block 6: 24 voters, ranking [1, 4, 2, 3]
+    - Block 13: 17 voters, ranking [1, 3, 4, 2]
+    - Block 14: 15 voters, ranking [3, 1, 4, 2]
+    - Block 16: 15 voters, ranking [4, 2, 1, 3]
+    - Block 17: 12 voters, ranking [3, 4, 2, 1]
+    - Block 21: 11 voters, ranking [4, 2, 3, 1]
+
+File: 00004-00000163.soc
+  Path: test_files/00004-00000163.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 4
+    - Block 1: 80 voters, ranking [4, 3, 2, 1]
+    - Block 2: 63 voters, ranking [3, 2, 1, 4]
+    - Block 5: 34 voters, ranking [3, 2, 4, 1]
+    - Block 8: 29 voters, ranking [3, 4, 2, 1]
+
+File: 00004-00000164.soc
+  Path: test_files/00004-00000164.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 4
+    - Block 1: 103 voters, ranking [3, 4, 2, 1]
+    - Block 2: 75 voters, ranking [3, 2, 4, 1]
+    - Block 8: 24 voters, ranking [4, 3, 2, 1]
+    - Block 10: 20 voters, ranking [3, 2, 1, 4]
+
+File: 00004-00000169.soc
+  Path: test_files/00004-00000169.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 1
+    - Block 10: 27 voters, ranking [1, 3, 4, 2]
+
+File: 00004-00000170.soc
+  Path: test_files/00004-00000170.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 1
+    - Block 1: 97 voters, ranking [4, 2, 3, 1]
+
+File: 00004-00000173.soc
+  Path: test_files/00004-00000173.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 1
+    - Block 3: 28 voters, ranking [2, 3, 4, 1]
+
+File: 00004-00000175.soc
+  Path: test_files/00004-00000175.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 4
+    - Block 1: 89 voters, ranking [3, 2, 1, 4]
+    - Block 4: 36 voters, ranking [3, 2, 4, 1]
+    - Block 5: 26 voters, ranking [3, 1, 2, 4]
+    - Block 10: 11 voters, ranking [1, 3, 2, 4]
+
+File: 00004-00000180.soc
+  Path: test_files/00004-00000180.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 2
+    - Block 3: 59 voters, ranking [4, 1, 3, 2]
+    - Block 4: 49 voters, ranking [4, 1, 2, 3]
+
+File: 00004-00000182.soc
+  Path: test_files/00004-00000182.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 6
+    - Block 1: 61 voters, ranking [3, 1, 2, 4]
+    - Block 4: 45 voters, ranking [3, 2, 4, 1]
+    - Block 7: 37 voters, ranking [3, 2, 1, 4]
+    - Block 8: 34 voters, ranking [1, 3, 2, 4]
+    - Block 9: 33 voters, ranking [3, 4, 2, 1]
+    - Block 15: 17 voters, ranking [1, 3, 4, 2]
+
+File: 00004-00000184.soc
+  Path: test_files/00004-00000184.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 2
+    - Block 1: 84 voters, ranking [3, 4, 1, 2]
+    - Block 2: 58 voters, ranking [3, 4, 2, 1]
+
+File: 00004-00000188.soc
+  Path: test_files/00004-00000188.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 1
+    - Block 1: 139 voters, ranking [3, 1, 2, 4]
+
+File: 00004-00000192.soc
+  Path: test_files/00004-00000192.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 2
+    - Block 1: 165 voters, ranking [3, 4, 1, 2]
+    - Block 2: 110 voters, ranking [3, 1, 4, 2]
+
+File: 00004-00000199.soc
+  Path: test_files/00004-00000199.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 2
+    - Block 2: 70 voters, ranking [3, 1, 2, 4]
+    - Block 3: 40 voters, ranking [4, 3, 1, 2]
+
+
+IRV VOTING RULE
+--------------------------------------------------------------------------------
+Found 2 manipulable file(s):
+
+File: 00004-00000140.soc
+  Path: test_files/00004-00000140.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 4
+    - Block 2: 30 voters, ranking [2, 3, 4, 1]
+    - Block 4: 22 voters, ranking [2, 4, 3, 1]
+    - Block 6: 17 voters, ranking [3, 2, 4, 1]
+    - Block 8: 16 voters, ranking [2, 4, 1, 3]
+
+File: 00004-00000163.soc
+  Path: test_files/00004-00000163.soc
+  Candidates: 4, Blocks: 24
+  Manipulable blocks: 3
+    - Block 7: 31 voters, ranking [4, 2, 1, 3]
+    - Block 13: 16 voters, ranking [4, 1, 2, 3]
+    - Block 22: 4 voters, ranking [1, 4, 2, 3]
+

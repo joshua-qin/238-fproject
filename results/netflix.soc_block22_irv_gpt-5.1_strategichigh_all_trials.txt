@@ -1,0 +1,87 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 2 > 4 > 3
+
+**Reasoning:** Sincerely, your ranking is 1 > 4 > 2 > 3, but candidate 1 is very weak in first-choice support and has no realistic path to win under IRV given the large existing profile. The real contest is primarily between candidates 2, 3, and 4, and your least-preferred candidate is 3. Ranking 2 second (ahead of 4) maximizes support for 2 as a compromise against 3, while still keeping 1 first in case of an unlikely upset, and placing 4 above 3 preserves a final fallback against your worst outcome.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 2 > 4 > 3  
+
+**Reasoning:** Under sincere voting your ranking is 1 > 4 > 2 > 3, but candidate 1 is very weak (only 10 first-choice votes) and is eliminated first in IRV. The real contest is between 2 and 3, with 2 being your preferred of those; ranking 2 second maximizes the chance that 2, not 3, wins after 1 is eliminated. Keeping 4 ahead of 3 still reflects your preferences while not harming 2’s chances, so the best strategic ballot is 1 > 2 > 4 > 3.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3  
+
+**Reasoning:**  
+Under truthful voting, candidate 3 is eliminated first, then 1, then 2, and candidate 4 ultimately wins. For our block, 4 is the second-best outcome and 2 is third-best; 3 is worst. Because 4 already wins under sincere preferences and our 4 votes are too small to engineer a better outcome for 1 (or to change the elimination order), the best strategic move is simply to vote our true ranking: 1 > 4 > 2 > 3.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 3 > 4 > 2
+
+**Reasoning:** Sincerely, your ranking is 1 > 4 > 2 > 3, but candidate 1 is extremely weak in first-choice support and has no realistic path to win under IRV. The real contest is among 2, 3, and 4, and from your perspective 2 is clearly the worst (you rank them 3rd), while 3 is better than 4 (you rank 3 last, but 4 is only 2nd-best). By ranking 3 and 4 above 2, you help prevent your worst candidate (2) from winning, while still keeping 1 at the top in case of an unlikely surge.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3  
+
+**Reasoning:**  
+Given the size of my block (4 voters) relative to the total electorate (over 500 voters), I have essentially no pivotal power to change which candidates are eliminated in any IRV round. Any attempt to misreport my preferences (e.g., raising 4 or 2 over 1) risks harming my top choice without materially improving the chances of a more preferred candidate over a less preferred one. Therefore, the best strategy is to vote sincerely according to my true preferences: 1 > 4 > 2 > 3.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 2 > 4 > 3
+
+**Reasoning:** Under sincere voting you prefer 1 > 4 > 2 > 3, but candidate 1 is extremely weak (only 10 first-place votes) and is eliminated first in IRV, so your top choice cannot win. The real contest is between 2, 3, and 4, and 3 is your least-preferred; by ranking 2 above 4 and 3, you help the broadly competitive candidate 2 beat 3 in later rounds, while still keeping 4 ahead of 3. This ranking best protects you from your worst outcome (3 winning) while modestly favoring 2, a middle option, over 4.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3  
+
+**Reasoning:**  
+Given the large electorate (over 500 voters) and our block size of only 4, our ballot cannot materially change which candidates are eliminated in each IRV round. The election dynamics are therefore effectively fixed by the existing profile, so the best we can do is vote sincerely: rank our true favorite (1) first, followed by 4, then 2, then 3, matching our underlying preference order.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** Your sincere ranking is already strategically sound. Candidate 1 is very weak in first-choice support and cannot realistically win, so ranking them first does not endanger your more viable favorites. Among the viable contenders (2, 3, and 4), candidate 4 is the one who can actually win and is your second choice, and your ballots will eventually transfer to 4 over 2 and then 3 in the IRV process, which best aligns with your preferences.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3  
+
+**Reasoning:**  
+Given the full preference profile, your block of 4 voters is extremely small relative to the total electorate (over 500 voters), so any attempt at strategic misrepresentation is vanishingly unlikely to change which candidates are eliminated in each IRV round or who ultimately wins. Because your vote is effectively non-pivotal, the best strategy is to report your true preferences: ranking candidate 1 first, then 4, then 2, and finally 3.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** Your sincere ranking is already strategically optimal. Under the given IRV profile, candidate 1 wins if you vote sincerely, while any attempt to promote 2 or 3 above 1 would only weaken 1 and risk electing a less-preferred candidate. Since your top choice can and does win without manipulation, the best strategy is to vote truthfully: 1 > 4 > 2 > 3.
+
+================================================================================
+

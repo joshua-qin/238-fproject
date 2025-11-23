@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 4 > 1 > 3
+
+**Reasoning:** With sincere voting (4 > 2 > 1 > 3), the IRV process eliminates 1, then 2, and candidate 3 ultimately defeats 4 in the final round—giving the worst possible outcome for your preferences. By ranking 2 first, your 31 votes boost candidate 2 above candidate 3 in the second round, so 3 is eliminated instead; the final becomes 2 vs. 4, and the transfers ensure that 2 wins. Candidate 4 cannot be made to win with your block alone, so this strategy secures your best *achievable* outcome (candidate 2) while still ranking 4 above 1 and 3.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 4 > 1 > 3
+
+**Reasoning:** If we vote sincerely (4 > 2 > 1 > 3), IRV elects candidate 3, who is our least-preferred option. By instead ranking candidate 2 first, we change the elimination order so that candidate 3 is eliminated before candidate 2, leading to a final round between 2 and 4 in which 2 wins. Candidate 4 cannot win under any ballot we cast (candidate 1 is always eliminated first, and both 2 and 3 beat 4 head-to-head), so making 2 our top choice is the best strategic move to avoid our worst outcome and elect our second-favorite candidate.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 4 > 1 > 3  
+
+**Reasoning:** With everyone voting sincerely, the IRV count eliminates 1 first, then 2, and the final runoff is 3 vs 4, which 3 wins—even though 3 is your least‑preferred candidate. Because 1 always finishes last in the first round and 4 loses head‑to‑head against both 2 and 3, there is no way for us alone to make 4 win. By ranking 2 above 4 and 3 (e.g., 2 > 4 > 1 > 3), 1 is still eliminated first, but in the second round 3 becomes the lowest and is eliminated, leading to a final 2 vs 4 runoff that 2 wins—giving you candidate 2 (your second choice) instead of candidate 3 (your last choice).
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 4 > 1 > 3  
+
+**Reasoning:** If we vote sincerely (4 > 2 > 1 > 3), the IRV process eliminates 1 first, then 2, and candidate 3 ultimately wins—even though 3 is our least-preferred option. By instead giving our first preference to candidate 2, our 31 votes make candidate 3 the one eliminated in the second round, leading to a final between 2 and 4 that candidate 2 wins. Candidate 4 cannot win given the rest of the electorate’s preferences, so strategically electing our second choice (2) is the best way to prevent our worst outcome (3).
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 4 > 1 > 3  
+
+**Reasoning:** With sincere voting (4 > 2 > 1 > 3), Instant Runoff Voting elects candidate 3, who is our last choice. If we instead rank 2 first (or effectively make 2 our top remaining choice after 1 is eliminated), candidate 1 is still eliminated first, then candidate 3 becomes the lowest and is eliminated next, leading to a final between 2 and 4 in which 2 wins. Since 4 cannot beat either 2 or 3 in a head-to-head IRV final, making 2 win is the best achievable outcome for us, and it is strictly better than the sincere outcome where 3 wins.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 4 > 1 > 3  
+
+**Reasoning:** With everyone voting sincerely, the IRV outcome elects candidate 3, who is our least-preferred option (we prefer 4 > 2 > 1 > 3). By ranking 2 above 4 and 3, our 31 votes are enough to make candidate 3, not 2, the second candidate eliminated; this creates a final runoff between 2 and 4, which 2 wins given the other voters’ preferences. Since we cannot, with our block size, make 4 win, strategically electing our second choice (2) instead of our last choice (3) best serves the voter’s interests.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 4 > 1 > 3  
+
+**Reasoning:** With everyone voting sincerely, the IRV process eliminates 1, then 2, and elects candidate 3, who is our least-preferred option. Our 31 votes are too few to make candidate 4 win—4 loses head‑to‑head against both 2 and 3—but if we instead rank candidate 2 first, 1 is still eliminated first, then 3 is eliminated second, and the final is 2 vs. 4, which candidate 2 wins. Ranking 2 > 4 > 1 > 3 therefore strategically upgrades the outcome from our worst candidate (3) to our second-best (2), while still keeping 4 above 1 and 3 in our expressed preferences.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 4 > 1 > 3  
+
+**Reasoning:** If your block votes sincerely as 4 > 2 > 1 > 3, the IRV process eliminates 1, then 2, and ultimately elects candidate 3—your least-preferred option. By instead ranking 2 first (e.g., 2 > 4 > 1 > 3), 1 is still eliminated first, but then 3 becomes the lowest and is eliminated next, leading to a final between 2 and 4 that candidate 2 wins. This strategic vote sacrifices your top choice 4, but it prevents the worst-case outcome (3 winning) and elects your second-best candidate instead.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 4 > 1 > 3
+
+**Reasoning:** If we vote sincerely as 4 > 2 > 1 > 3, Instant Runoff Voting eliminates 1 first, then 2, and the final runoff between 3 and 4 is won by candidate 3—our least-preferred option. By instead ranking 2 first, the first elimination is still 1, but then 3 becomes the lowest and is eliminated next, creating a 2 vs 4 final which, given the rest of the electorate, is won by 2. This strategy cannot make 4 win, but it does replace a victory for our worst candidate (3) with a victory for our second-favorite (2), so we rank 2 first and then keep our sincere order among the remaining candidates: 4 > 1 > 3.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 4 > 1 > 3  
+
+**Reasoning:** If we vote sincerely (4 > 2 > 1 > 3), Instant Runoff Voting eliminates 1, then 2, and candidate 3 — our least-preferred — wins. By instead ranking candidate 2 first, the first elimination is still 1, but then 3 is eliminated next, and in the final 2-vs-4 matchup, candidate 2 wins by majority. Because there is no way for our block of 31 voters to make 4 beat 2 head-to-head, the best achievable outcome is to strategically elect our second choice, candidate 2, while still ranking 4 and 1 above 3.
+
+================================================================================
+

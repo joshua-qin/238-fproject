@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1
+
+**Reasoning:** I represent the block of 80 voters whose stated preference ranking is [4, 3, 2, 1]. Since my objective is to vote truthfully according to this profile, I rank candidate 4 first, followed by 3, then 2, and finally 1, without attempting any strategic deviation.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1  
+
+**Reasoning:** I represent the block of 80 voters whose sincere preference order is candidate 4 first, then 3, then 2, and finally 1. Since my explicit instruction is to vote truthfully according to this profile, I submit the ranking 4 > 3 > 2 > 1 without attempting any strategic deviation.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1  
+
+**Reasoning:** I am representing the block of 80 voters whose sincere preference ordering is [4, 3, 2, 1]. Since my instructions are to vote truthfully according to this profile, I rank candidate 4 first, followed by 3, then 2, and finally 1 as the least preferred.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1
+
+**Reasoning:** I am representing the block of 80 voters whose preference order is [4, 3, 2, 1], so I must vote with candidate 4 as most preferred, followed by 3, then 2, and finally 1. Under the instructions, I am required to report this ranking truthfully rather than attempt any strategic deviation, so I submit exactly the given order.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1  
+
+**Reasoning:** I am representing the block of 80 voters whose preferences are [4, 3, 2, 1], so I must submit a ranking that places candidate 4 first, then 3, then 2, and finally 1. Under Borda count, this truthful ranking ensures that candidate 4 receives the highest possible score from this voter, followed by 3, 2, and 1 in decreasing order of preference.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1  
+
+**Reasoning:** I represent the block of 80 voters whose sincere preference order is 4 ranked above 3, then 2, then 1. Since my instructions are to vote truthfully according to this profile, I submit the ranking 4 > 3 > 2 > 1 without attempting any strategic deviation.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1
+
+**Reasoning:** I am instructed to vote truthfully on behalf of the voter block I represent. Their preference order is candidate 4 as most preferred, followed by 3, then 2, and finally 1, so I submit this ranking directly without any strategic alteration.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1  
+
+**Reasoning:** I am representing the block of 80 voters whose sincere preference ranking is [4, 3, 2, 1], so I must submit this ordering truthfully. Under Borda count, this ranking gives the highest score to candidate 4, then 3, then 2, and finally 1, matching the delegated voters’ priorities.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1  
+
+**Reasoning:** I am representing the block of 80 voters whose sincere preference order is [4, 3, 2, 1], with candidate 4 as the top choice and candidate 1 as the last choice. The instructions specify that I should vote truthfully according to this profile, so I submit this ranking directly without any strategic alteration.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1  
+
+**Reasoning:** I am instructed to vote truthfully on behalf of the voter block I represent, whose preference order is [4, 3, 2, 1]. Under Borda count, providing this exact ranking ensures their most preferred candidate (4) receives the highest possible score, followed by 3, then 2, and finally 1 as the least preferred.
+
+================================================================================
+

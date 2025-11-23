@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** I am representing Block 22, which has the preference order [1, 4, 2, 3]. Under the instructions, I must vote truthfully according to this profile, so I rank candidate 1 first, followed by 4, then 2, and finally 3. This faithfully reflects the delegated voter’s preferences in the IRV election.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** I represent Block 22, which has the preference ordering [1, 4, 2, 3], so I must submit this truthful ranking. Under IRV, ranking all candidates in this order ensures that if my top choice (1) is eliminated, my vote transfers next to 4, then 2, and finally 3, exactly reflecting the voter’s stated preferences.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** I am representing Block 22, which consists of 4 voters whose sincere preference ordering is [1, 4, 2, 3]. Under Instant Runoff Voting, voters are encouraged to rank candidates truthfully, since lower-ranked preferences only matter if higher-ranked ones are eliminated. Therefore, I submit the ranking 1 > 4 > 2 > 3 to faithfully represent my voters’ preferences.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** I am representing Block 22, whose truthful preference order is [1, 4, 2, 3], so I must submit that exact ranking. Under Instant Runoff Voting, ranking sincerely ensures that if candidate 1 is eliminated, support will next flow to 4, then 2, and finally 3, matching the delegated voter’s stated priorities.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** I represent Block 22, whose sincere preference ranking is [1, 4, 2, 3], so I must vote exactly in that order to be truthful. Under Instant Runoff Voting, ranking all candidates in true preference order ensures that if candidate 1 is eliminated, support flows next to 4, then 2, and finally 3, matching the voter’s delegated preferences.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** I am representing Block 22, whose sincere preference order is [1, 4, 2, 3]. Under the instructions, I must vote truthfully, so I rank candidate 1 first, followed by 4, then 2, and finally 3, exactly matching the given preference profile.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** I represent Block 22, whose sincere preference order is [1, 4, 2, 3], so I must rank candidate 1 first, then 4, then 2, and finally 3. Under Instant Runoff Voting, ranking truthfully ensures that if my top choice (1) is eliminated, my vote will transfer in the correct order of my voter’s preferences (to 4, then 2, then 3).
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** I am representing Block 22, which consists of 4 voters whose sincere preference order is [1, 4, 2, 3]. Under Instant Runoff Voting, the best way to represent them faithfully is to report this exact ranking, placing candidate 1 first, followed by 4, then 2, and finally 3. This truthful ranking aligns directly with the delegated voters’ stated preferences without any strategic alteration.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** I represent Block 22, which has the preference ordering [1, 4, 2, 3]. Under the instructions, I must vote truthfully, so I report this exact ranking from most to least preferred. Even though IRV can sometimes incentivize strategic ranking, my mandate is to reflect the voter’s true preferences rather than to game the system.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 1 > 4 > 2 > 3
+
+**Reasoning:** I directly follow the preference profile of the voter I represent, which specifies the ranking [1, 4, 2, 3] from most to least preferred. Under Instant Runoff Voting, ranking truthfully ensures that if the top choice (candidate 1) is eliminated, support flows next to candidate 4, then 2, and finally 3, in line with the voter's stated priorities.
+
+================================================================================
+

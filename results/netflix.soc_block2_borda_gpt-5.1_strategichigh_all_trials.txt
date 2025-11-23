@@ -1,0 +1,84 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1 > 4  
+
+**Reasoning:** With Borda count and four candidates, each position change only shifts one point per voter between adjacent candidates. Given the large, complex profile, no simple reversal or reordering of our 63-voter block clearly improves the relative standing of our top two favorites (3 and 2) without risking helping 1 over 2 or 3. Keeping our sincere ranking 3 > 2 > 1 > 4 ensures we maximally support our top choice (3), strongly back our second (2), and consistently minimize support for our least preferred candidate (4).
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1 > 4  
+
+**Reasoning:** Under Borda, with four candidates, your top choice (3) gains 3 points per ballot, so any deviation that doesn’t also rank 3 first only harms your favorite. Candidate 4 is consistently weak in the profile and not a threat, while 1 and 2 are stronger competitors; keeping 2 above 1 (as in your sincere ranking) helps 2 beat 1, which is beneficial since you prefer both 3 and 2 to 1. Given the existing distribution of preferences, there is no clear profitable manipulation that improves 3’s chances over the sincere ballot, so voting truthfully (3 > 2 > 1 > 4) is the best strategic choice.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1 > 4
+
+**Reasoning:** Under sincere preferences, your block already ranks 3 > 2 > 1 > 4, and candidate 3 is clearly your top choice while 4 is clearly worst. In Borda with four candidates, shifting 3 down to help 2 or 1 would cost 3 exactly one point per voter for each position dropped and is very unlikely to be offset by gains elsewhere, especially since you control a large block (63 voters) whose primary leverage is to keep maximizing 3’s score. Thus, the best strategic move remains to vote sincerely for 3 > 2 > 1 > 4 to maximize candidate 3’s Borda total and minimize any benefit to 4.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1 > 4
+
+**Reasoning:** Under sincere voting, candidate 3 already wins the Borda election by a clear margin over candidate 2; pushing 3 further down would only risk losing to 2 or even 1, both of whom we like less than 3. No alternative ranking by our 63-voter block can elect a more preferred candidate than 3, so the best strategic action is to vote sincerely: 3 first, then 2, then 1, and 4 last.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 3 > 1 > 4
+
+**Reasoning:** Under sincere voting (3 > 2 > 1 > 4), candidate 3 wins comfortably, with candidate 2 a clear second. However, my block’s true top two are 3 and 2, and candidate 3 is already safe; by ranking 2 first and 3 second, I maximize support for 2 without realistically endangering 3’s victory, and in any close scenario between 2 and 1, this ballot helps 2 over 1. This makes 2 > 3 > 1 > 4 a safe, strategically beneficial deviation that never produces a worse outcome for my preferences than sincere voting.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 2 > 3 > 1 > 4  
+
+**Reasoning:**  
+Computing the Borda scores under sincere voting shows that candidate 2 wins. My block’s true preference is 3 > 2 > 1 > 4, but 3 is not competitive: even if all 63 of my voters rank 3 first, candidate 2 still wins by a large margin. The only plausible threat to 2 is candidate 4, who is my least-preferred, so the best strategic move is to maximize support for 2 and push 4 to the bottom, yielding the ballot 2 > 3 > 1 > 4.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 4 > 1
+
+**Reasoning:** Under sincere voting your block would vote 3 > 2 > 1 > 4, but candidate 1 is a major competitor to your top choice, 3. By ranking 4 above 1, you reduce 1’s Borda score while still giving your second-favorite (2) the same points as in your sincere ranking. This trade-off helps candidate 3 in the overall Borda totals by weakening a strong rival (1) without sacrificing support for 3 or 2.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1 > 4
+
+**Reasoning:** Under sincere voting your block already ranks 3 > 2 > 1 > 4, and given the large electorate and the symmetry of other preference blocks, no alternative ranking by your 63 voters is likely to propel a more preferred candidate (3 or 2) to victory without risking an even worse outcome (e.g., helping 1 or 4). In Borda, large, coordinated reversals can easily backfire by boosting a major rival’s score; here, the safest and most consistent way to support your top choices is to vote sincerely and give maximum points to 3, then 2, while minimizing points to your least-preferred 4.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1 > 4
+
+**Reasoning:** Under sincere voting your block already ranks 3 > 2 > 1 > 4, and given the large number of voters and the symmetric-looking distribution of preferences, unilateral deviation by your 63-voter block is unlikely to change the overall Borda winner in a predictable, beneficial way. Any attempt to demote 1 or artificially boost 2 at the expense of 3 risks weakening your top choice’s Borda score relative to competitors, so the safest strategy that best protects your preferences is to vote sincerely: 3 > 2 > 1 > 4.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1 > 4  
+
+**Reasoning:** Under Borda, with 4 candidates, each ballot gives 3 points to 1st, 2 to 2nd, 1 to 3rd, and 0 to 4th. Given the large, diverse electorate and that my block (63 voters) is only one of many, no alternative ranking by this single block is likely to pivot the overall outcome enough to justify deviating from sincere preferences. Therefore, the best strategy is to vote sincerely, maximizing support for my top choice (3), then 2, then 1, and minimizing support for my least-preferred candidate (4).
+
+================================================================================
+

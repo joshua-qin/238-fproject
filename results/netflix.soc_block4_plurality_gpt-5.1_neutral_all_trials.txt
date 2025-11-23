@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Vote Choice:** 2
+
+**Reasoning:** Under plurality, only first-place rankings matter. Tallying first choices from the full profile gives: candidate 2 with 170 votes, candidate 3 with 164, candidate 4 with 185, and candidate 1 with 28. Since your top preference is 2 and they are competitive (close behind 4), your best move is to vote sincerely for candidate 2 to help them overtake candidate 4.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Vote Choice:** 2
+
+**Reasoning:** Under plurality, only first-place rankings matter. If everyone votes sincerely, the first-place vote totals are: 1 gets 33, 2 gets 191, 3 gets 222, and 4 gets 231, so candidate 4 would win, which is your least-preferred option. By voting for your top choice, candidate 2, you help strengthen a viable alternative to 4 and push the outcome closer to your preferences; any vote for 3 would still leave 4 ahead and does not better reflect your ranking than a sincere vote for 2.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Vote Choice:** 2
+
+**Reasoning:** Under plurality, only first-place rankings matter. From your block’s perspective, candidate 2 is your top choice, so voting sincerely for 2 is best. There is no clear coordination opportunity shown that would allow a different vote to reliably defeat a worse opponent, so the optimal action is to support your most-preferred candidate.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Vote Choice:** 2
+
+**Reasoning:** Under plurality, only first-place rankings matter, so I should support the candidate I most prefer: candidate 2. There is no information about others voting strategically or any coordination that would make a different candidate more viable for my interests, so sincerely voting for 2 best reflects my block’s preferences [2, 3, 1, 4].
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Vote Choice:** 2
+
+**Reasoning:** Under plurality voting, only first-place choices matter, so I should vote for my top-ranked candidate. Given my ranking [2, 3, 1, 4], candidate 2 is preferred to all others, and there is no information suggesting that a different vote would better protect my interests than sincerely supporting candidate 2.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Vote Choice:** 2
+
+**Reasoning:** Under plurality voting, only the top-ranked candidate on each ballot receives a vote, so the best way to represent a voter whose ranking is [2, 3, 1, 4] is to vote for candidate 2. There is no information suggesting a coordinated strategy that would improve the outcome over sincerely supporting the top choice, so casting the vote for candidate 2 best serves the voter’s preferences.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Vote Choice:** 2
+
+**Reasoning:** Under plurality voting you can only give support to one candidate, so it’s best to vote for your top choice if they have a realistic chance. From the full profile, candidate 2 appears frequently at or near the top of many rankings and is a strong contender, so casting your vote for 2 both aligns with your preference order [2, 3, 1, 4] and maximizes the chance of electing your most-preferred candidate.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Vote Choice:** 2
+
+**Reasoning:** Under plurality, only first-place rankings matter, so I should support my top choice among the candidates, which is candidate 2. There’s no information suggesting a coordination scheme or that candidate 2 is non-viable, so the best way to represent the voter’s interests is to cast the ballot sincerely for candidate 2.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Vote Choice:** 2
+
+**Reasoning:** Under plurality, only first-place rankings matter, so I compare how many voters currently rank each candidate first. Candidate 4 has the most first-place support (80 + 58 + 31 + 16 = 185), so they are the main threat; my top choice, candidate 2, has fewer first-place votes but is still competitive. Voting sincerely for candidate 2 is the best way to promote my most-preferred candidate and potentially block a stronger win by candidate 4.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Vote Choice:** 2
+
+**Reasoning:** Under plurality, only the first-ranked candidate on each ballot matters. In your block’s ranking [2, 3, 1, 4], candidate 2 is your top choice, so voting sincerely means voting for 2. There is no information about others strategically coordinating or about a different viable frontrunner you prefer to 2, so the best way to represent your interests is to cast your vote for candidate 2.
+
+================================================================================
+

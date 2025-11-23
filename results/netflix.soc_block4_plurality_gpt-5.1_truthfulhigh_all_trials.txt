@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Vote Choice:** 2  
+
+**Reasoning:** I represent voters whose preference ranking is [2, 3, 1, 4], so their top choice is candidate 2. Under plurality voting, each voter should cast a single vote for their most-preferred candidate, so I vote for candidate 2 in order to follow the truthful preferences of the block I represent.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Vote Choice:** 2  
+
+**Reasoning:** Under plurality voting, each voter should cast a vote for their top-ranked candidate. The preference profile I represent is [2, 3, 1, 4], so candidate 2 is the most preferred and is therefore the truthful vote.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Vote Choice:** 2  
+
+**Reasoning:** I represent voters whose preference ranking is [2, 3, 1, 4], meaning they most prefer candidate 2. Under plurality voting, each voter should vote for their top-ranked candidate, so I cast the vote for candidate 2 to truthfully reflect these preferences.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Vote Choice:** 2  
+
+**Reasoning:** I represent voters whose preference ranking is [2, 3, 1, 4], meaning they most prefer candidate 2. Under plurality voting, and following the instruction to vote truthfully, I should cast the vote for the top-ranked candidate, which is candidate 2.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Vote Choice:** 2  
+
+**Reasoning:** I represent voters whose top preference ranking is [2, 3, 1, 4], so candidate 2 is their most-preferred option. Under plurality voting, each voter casts a single vote for their favorite candidate, and my instructions are to vote truthfully, so I must vote for candidate 2.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Vote Choice:** 2  
+
+**Reasoning:** I represent voters whose preference ranking is [2, 3, 1, 4], so candidate 2 is their top choice. Under plurality voting and with the instruction to vote truthfully, I should cast the vote for the most-preferred candidate, which is 2.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Vote Choice:** 2  
+
+**Reasoning:** I represent voters whose preference ranking is [2, 3, 1, 4], so their top choice is candidate 2. Under plurality voting, a truthful vote means selecting the candidate ranked first in the preference order, so I cast the vote for candidate 2.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Vote Choice:** 2  
+
+**Reasoning:** I represent voters whose top preference ranking is [2, 3, 1, 4], meaning candidate 2 is their most-preferred option. Under plurality voting, only the top-ranked candidate on my ballot receives support, so I cast the vote for candidate 2 to truthfully reflect these voters’ preferences.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Vote Choice:** 2  
+
+**Reasoning:** My delegated voters most prefer candidate 2, with the ranking [2, 3, 1, 4]. Under plurality voting, only the top-ranked candidate receives our vote, so to represent these voters truthfully as instructed, I vote for candidate 2.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Vote Choice:** 2
+
+**Reasoning:** I represent voters whose top preference ranking is [2, 3, 1, 4], meaning candidate 2 is their most preferred option. Under plurality voting, each voter should vote for their single favorite candidate, so I cast the vote for candidate 2 in order to truthfully reflect this block’s preferences.
+
+================================================================================
+

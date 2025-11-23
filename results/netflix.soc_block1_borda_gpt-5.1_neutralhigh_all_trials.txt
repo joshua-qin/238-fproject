@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1  
+
+**Reasoning:** Your sincere preference ranking is 4 > 3 > 2 > 1, and under Borda count your ballot gives fixed points to each position regardless of how others vote. Given the large electorate and the lack of clear evidence that a different ordering would improve the outcome relative to your preferences, the best way to represent your interests is to vote sincerely and rank the candidates exactly as 4 > 3 > 2 > 1.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1  
+
+**Reasoning:** You represent voters who sincerely prefer 4 > 3 > 2 > 1, so ranking 4 first and 1 last is aligned with their interests. Under Borda, partial support for compromise candidates can sometimes be strategic, but given only one block’s control and no further coordination or pivotal information, the best way to advance your voters’ interests is to cast a sincere ballot matching their true ranking.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1
+
+**Reasoning:** I represent voters whose sincere preference is 4 > 3 > 2 > 1, so their top goal is to maximize candidate 4’s Borda score. Under Borda, raising another candidate above 4 or demoting 4 would only weaken 4 without a clear compensating gain, and there is no information here suggesting a specific strategic deviation that would help 4 more than sincere voting. Therefore, the best way to serve these voters’ interests is to cast a sincere ballot: 4 > 3 > 2 > 1.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1  
+
+**Reasoning:** Given the Borda rule, each position on our ballot contributes linearly to candidates’ total scores. Our sincere preferences are 4 > 3 > 2 > 1, and candidate 4 is already very strong in the profile; ranking them first maximizes their Borda points, while ranking main rivals (especially 1) last minimizes theirs. There is no clear beneficial manipulation that would improve the outcome for us over the sincere ballot, so the best strategy is to vote truthfully as 4 > 3 > 2 > 1.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1  
+
+**Reasoning:** Given the Borda rule, your block’s most preferred candidate (4) gains the most when you rank them first, and there is no indication that deviating from your sincere ranking would strategically improve your outcome. With 80 voters already sharing this preference and no coordination mechanism or pivotal evidence suggesting a profitable manipulation, the best way to represent your interests is to vote sincerely as [4, 3, 2, 1].
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1  
+
+**Reasoning:** Under Borda count, your ballot gives 3 points to your top choice, 2 to second, 1 to third, and 0 to last. Since you most prefer 4, then 3, then 2, and least prefer 1, the straightforward sincere ranking 4 > 3 > 2 > 1 maximizes support for your top choices while minimizing support for your worst option. Without detailed outcome calculations showing a clear strategic benefit to deviating, the best way to represent your interests is to vote your true preferences.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1  
+
+**Reasoning:** Under Borda count, you gain the most by keeping your true favorite (4) in first place, since every position change shifts points among all candidates. Given the large electorate and the complexity of the profile, a single block’s strategic deviation is unlikely to reliably improve the outcome, and could easily backfire by helping a less-preferred candidate. Voting sincerely as 4 > 3 > 2 > 1 best represents your interests while avoiding unpredictable strategic risks.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1  
+
+**Reasoning:** Under Borda count, every position on the ballot contributes to candidates’ total scores, so ranking sincerely still strongly rewards your top choices. As the representative of voters who prefer 4 > 3 > 2 > 1, the best way to advance their interests is to maximize points for 4, then 3, while minimizing points for their least-preferred candidate 1, which is exactly achieved by this sincere ranking.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1
+
+**Reasoning:** Under Borda count, you can’t change the relative scores between candidates except through your ranking, and your block is large (80 voters) with a clear preference: 4 ≻ 3 ≻ 2 ≻ 1. Given only one ballot to cast on behalf of this block and no indication that insincere ranking would reliably elect a more preferred candidate than 4, the best way to represent your voters’ interests is to vote sincerely: rank 4 first, then 3, then 2, and 1 last.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1  
+
+**Reasoning:** Given Borda count and the size of your block (80 voters), the most direct way to serve your interests is to cast your ballot sincerely: you most prefer 4, then 3, then 2, then 1. Without detailed computation of all candidates’ current Borda totals and potential pivots, there is no clear strategic advantage to deviating from your true ranking, so preserving maximum support for candidate 4 while still favoring 3 over 2 and 1 is the safest choice.
+
+================================================================================
+

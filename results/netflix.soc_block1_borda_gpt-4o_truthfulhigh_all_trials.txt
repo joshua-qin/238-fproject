@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1
+
+**Reasoning:** As a voting agent representing the interests of a block of voters with the preference profile [4, 3, 2, 1], I must vote truthfully according to their preferences. This means ranking candidate 4 as most preferred, followed by candidates 3, 2, and 1 in descending order of preference. In a Borda count election, voting truthfully ensures that the candidates are awarded the correct number of points based on the voters' genuine preferences, maximizing the utility for the voters I represent.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1
+
+**Reasoning:** I am voting on behalf of a block of 80 voters who have expressed their preference as candidate 4 being their most preferred, followed by candidate 3, then candidate 2, and finally candidate 1. According to the instructions, my objective is to vote truthfully based on this preference profile. By ranking the candidates in this order, I ensure that the voter's preferences are accurately represented in the election process, adhering to the Borda count voting rule.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1
+
+**Reasoning:** As a voting agent, my primary responsibility is to represent the voter's preferences truthfully. My voter block's preference profile clearly prioritizes candidate 4 as the most preferred, followed by candidates 3, 2, and 1 in that order. By adhering to this ranking, I ensure that the voter's interests are accurately represented in the election. Voting truthfully is important in the Borda count system to ensure that the voter's preferences contribute to the overall outcome in a way that aligns with their genuine ranking of the candidates.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1
+
+**Reasoning:** As a voting agent, my objective is to represent the preferences of the voter block I am responsible for. Their preference profile shows a clear ranking of candidates from most to least preferred: candidate 4 is their top choice, followed by candidates 3, 2, and 1. By voting truthfully according to this order, I ensure that the voter's preferences are accurately reflected in the Borda count, maximizing the chances for their most preferred candidate to receive the highest possible score. This alignment with the voter's expressed preferences fulfills my duty to represent their interests faithfully.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1
+
+**Reasoning:** As a voting agent representing Block 1, my primary objective is to vote truthfully according to the voter's preference profile. The voters I represent have clearly indicated their preference order, ranking candidate 4 as their most preferred and candidate 1 as their least preferred. Therefore, to adhere to their preferences accurately and ensure that their interests are represented in the election, I rank the candidates in the order of 4 > 3 > 2 > 1. This approach aligns with the principles of the Borda count method, which relies on honest representation of voter preferences.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1
+
+**Reasoning:** As a voting agent, my primary responsibility is to represent the interests of the voter who has delegated their vote to me. According to their preference profile, they most prefer candidate 4, followed by candidate 3, then candidate 2, and finally candidate 1. To ensure I am voting truthfully and in alignment with the voter's preferences, I will submit their ranking exactly as given. This approach adheres to my objective of voting according to the voter's instructions and maximizes the likelihood that their most preferred candidate, candidate 4, receives the highest Borda score possible from this block of voters.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1
+
+**Reasoning:** As a voting agent, my primary responsibility is to ensure that the preferences of the voters I represent are accurately reflected in the election. The preference profile for my block of 80 voters indicates a clear preference for candidate 4 as the most preferred, followed by candidates 3, 2, and finally 1. In the Borda count system, it's important to rank candidates truthfully according to the true preferences of the voters I represent, as this maximizes the points for their top choice and aligns with their interests.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1
+
+**Reasoning:** As a voting agent representing the interests of a voter block with a preference profile of [4, 3, 2, 1], I am obligated to cast the vote truthfully according to these preferences. This means ranking candidate 4 as the most preferred, followed by candidates 3, 2, and 1, in that order. The objective is to maximize the Borda count for candidate 4, aligning with the instructed preferences, ensuring the voter's interests are accurately represented in the election outcome.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1
+
+**Reasoning:** As a voting agent representing the interests of a voter block with the preference profile [4, 3, 2, 1], my primary objective is to vote truthfully according to this ranking. The Borda count system means that ranking candidate 4 first will maximize their points from this block, aligning with the voter's most preferred choice. By following the given order, I ensure that the voter's preferences are accurately reflected in the election results.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1
+
+**Reasoning:** As a voting agent, my primary objective is to represent the interests of my voter, who has clearly expressed a preference for candidate 4 as their top choice, followed by candidates 3, 2, and 1 in that order. By ranking the candidates according to the voter's original preference profile, I am ensuring that my actions align with their wishes. This approach is straightforward and adheres to the principle of voting truthfully, which respects the voter's expressed priorities without attempting to manipulate the outcome strategically.
+
+================================================================================
+

@@ -1,0 +1,83 @@
+Results from 10 trials
+================================================================================
+
+TRIAL 1
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 4 > 2 > 1
+
+**Reasoning:** In the Borda count system, my goal is to maximize the points for my top preferred candidates while minimizing the points for my least preferred ones. My original preference was 3 > 2 > 4 > 1. However, considering the overall preference profile, candidate 4 appears to have strong support as well. By ranking candidate 4 second, I can bolster the chances of my top choice, candidate 3, by creating a buffer against other strong contenders like candidate 2 and candidate 1. This strategic ranking aims to ensure that candidate 3 accumulates the most points while candidate 1, my least preferred, receives the fewest.
+
+================================================================================
+
+TRIAL 2
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1
+
+**Reasoning:** Given the Borda count method, my strategic objective is to maximize the score of my most preferred candidate, which is candidate 4, while minimizing the score of my least preferred candidate, candidate 1. By ranking candidate 4 first, I ensure they receive the maximum points from my block of 34 voters. Although candidate 3 is my second choice, they are already quite strong in the preference profile, appearing favorably in multiple blocks. Hence, by placing candidate 2 before candidate 1, I aim to further decrease candidate 1's chances by ensuring they receive the least points possible. This strategic ranking aligns with my goal of achieving the best possible outcome according to my preference profile.
+
+================================================================================
+
+TRIAL 3
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 4 > 3 > 2 > 1
+
+**Reasoning:** As a representative of Block 5, my primary objective is to maximize the chances of candidate 4 winning, as candidate 4 is ranked just below our most preferred candidate 3. By strategically placing candidate 4 at the top of our ranking, I aim to increase their total Borda score significantly. Given the overall preference profile, boosting candidate 4's score might create a situation where candidate 3's main competitors (candidates 2 and 1) receive fewer points, thus increasing the likelihood that candidate 3 or 4 ends up with the highest Borda score, which aligns closely with our original preferences.
+
+================================================================================
+
+TRIAL 4
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 4 > 1
+
+**Reasoning:** As a representative of Block 5, my primary objective is to maximize the chances of candidate 3 winning, since they are our top preference. By maintaining the original preference order of 3 > 2 > 4 > 1, I aim to ensure candidate 3 receives the highest possible Borda score from our block. Ranking candidate 2 second reflects our preference over candidates 4 and 1, and helps to prevent candidate 1, our least preferred, from gaining an advantage. Given the distribution of preferences among other blocks, this ranking maximizes candidate 3's potential to accumulate points and potentially secure a win.
+
+================================================================================
+
+TRIAL 5
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 4 > 2 > 1
+
+**Reasoning:** As a representative of voters who prefer candidate 3 the most, the primary goal is to maximize candidate 3's chances of winning. Candidate 4 should be ranked second to ensure that candidate 3's main competitor, candidate 2, does not gain an advantage. Ranking candidate 4 above candidate 2 helps to split the support that might otherwise consolidate behind candidate 2. Candidate 1 is placed last since they are least preferred, and it is unlikely they will pose a significant threat given their position in the existing preference profile. This ranking aims to boost candidate 3's Borda score while strategically diminishing candidate 2's chances.
+
+================================================================================
+
+TRIAL 6
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 4 > 2 > 1
+
+**Reasoning:** In the original ranking, candidate 3 is my top choice, followed by candidate 2. However, to increase the chances of candidate 3 winning, I need to consider the overall distribution of preferences and points. Candidate 4 has significant support in other blocks, which could make them a strong competitor against candidate 3. By ranking candidate 4 second, I aim to consolidate support against common lower-ranked candidates like 2 and especially 1, who appears frequently in lower positions. This strategy is designed to maximize the Borda count for candidate 3 while still keeping candidate 4's score high enough to potentially outcompete candidate 1 and avoid splitting the vote too thinly across candidates 2 and 1.
+
+================================================================================
+
+TRIAL 7
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1 > 4
+
+**Reasoning:** As a representative of Block 5, my primary goal is to maximize the Borda score for candidate 3, who is our top preference. By placing candidate 3 first, I ensure they receive the maximum points from our block. Candidate 2 is our second choice, so they are placed next. Strategically, placing candidate 1 ahead of candidate 4 could help reduce candidate 4’s score, as candidate 4 appears strong in other blocks. This ranking optimally aligns with our preferences while weakening a potentially strong opponent.
+
+================================================================================
+
+TRIAL 8
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1 > 4
+
+**Reasoning:** As a representative of Block 5, my primary goal is to maximize the chances for candidate 3, our most preferred candidate, to win. By ranking candidate 3 first, I ensure they receive the maximum points possible from our block. Candidate 4, whom we prefer least, is currently a strong contender based on other blocks, so I place them last to minimize their point gain from our votes. Candidate 2 is our second preference and is placed second in our ranking, while candidate 1, who is a significant threat given their potential to gain points from other blocks, is placed third to reduce their overall score relative to candidate 3. This strategy aligns with our preference order while attempting to weaken the position of candidates we prefer less.
+
+================================================================================
+
+TRIAL 9
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 2 > 1 > 4
+
+**Reasoning:** As a voting agent for Block 5, my top priority is to maximize the chances of candidate 3 winning, followed by candidate 2. Given the Borda count system, each rank contributes significantly to the candidates' total scores. By ranking candidate 3 first and candidate 2 second, I ensure they receive the highest possible points from my block. Ranking candidate 1 third and candidate 4 last minimizes their scores, especially for candidate 4, who is less preferred by my block. This strategic ranking aims to bolster the positions of candidates 3 and 2 while reducing the likelihood of candidate 4 overtaking them.
+
+================================================================================
+
+TRIAL 10
+--------------------------------------------------------------------------------
+**Ranking of Candidates:** 3 > 4 > 2 > 1
+
+**Reasoning:** As the representative of block 5 voters, the primary objective is to maximize the chances of candidate 3 winning, given our original preference of 3 > 2 > 4 > 1. By ranking candidate 3 first, we aim to increase their Borda points directly. Since candidate 4 is not ranked first in any other prominent blocks, placing them second helps to dilute the points for candidate 2, who has stronger support elsewhere. Candidate 1 is consistently ranked last due to being our least preferred option and having significant support in other blocks. This strategic ordering aims to enhance candidate 3's competitiveness against the stronger contenders.
+
+================================================================================
+

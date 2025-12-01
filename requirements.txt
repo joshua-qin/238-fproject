@@ -1,2 +1,6 @@
 openai>=1.0.0
+torch>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+modal>=0.60.0
 

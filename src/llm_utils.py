@@ -7,6 +7,7 @@ import logging
 import os
 from datetime import datetime
 from openai import OpenAI
+from typing import Optional
 
 # Default folders (relative to project root)
 PROMPTS_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "prompts")
@@ -40,23 +41,29 @@ def setup_logger(log_file_path):
     return logger
 
 
-def call_gpt(prompt, model, temperature=0.7, logger=None, query_id=None, use_reasoning=False, reasoning_effort="high"):
+def call_gpt(prompt, model, temperature=0.7, logger=None, query_id=None, use_reasoning=False, reasoning_effort="high", base_url=None, api_key=None):
     """
     Call GPT model with the given prompt and log the query.
     
     Args:
         prompt: The prompt text to send
-        model: GPT model to use
+        model: GPT model to use (or model name for Modal endpoint)
         temperature: Temperature for generation
         logger: Optional logger instance
         query_id: Optional identifier for this query (e.g., "Trial1_Agent5")
         use_reasoning: If True, use the reasoning API (client.responses.create)
         reasoning_effort: Reasoning effort level ("none", "low", "medium", "high")
+        base_url: Optional base URL for OpenAI-compatible API (e.g., Modal endpoint)
+        api_key: Optional API key (defaults to OPENAI_API_KEY env var)
     
     Returns:
         Response content from GPT
     """
-    client = OpenAI()
+    # Support Modal or other OpenAI-compatible endpoints
+    if base_url:
+        client = OpenAI(base_url=base_url, api_key=api_key or "not-needed")
+    else:
+        client = OpenAI(api_key=api_key)
     
     # Log the query
     if logger:

@@ -1,0 +1,29 @@
+{
+  "model": "openai/gpt-oss-20b",
+  "layer": 20,
+  "num_samples": 10,
+  "vector_shapes": {
+    "truthful_response_samples": [
+      10,
+      25,
+      2880
+    ],
+    "strategic_response_samples": [
+      10,
+      25,
+      2880
+    ],
+    "note": "Shape is [num_samples \u00d7 layers \u00d7 hidden_dim]. Averages should be computed when loading."
+  },
+  "vector_paths": {
+    "volume": {
+      "truthful_response_samples": "/results/steering_vectors/gpt-oss-20b/truthful_response_samples.pt",
+      "strategic_response_samples": "/results/steering_vectors/gpt-oss-20b/strategic_response_samples.pt"
+    },
+    "local": {
+      "truthful_response_samples": "steering_vectors/gpt-oss-20b/extraction/truthful_response_samples.pt",
+      "strategic_response_samples": "steering_vectors/gpt-oss-20b/extraction/strategic_response_samples.pt"
+    }
+  },
+  "note": "Per-sample vectors saved. Compute averages as: samples.mean(dim=0) to get [layers \u00d7 hidden_dim]"
+}

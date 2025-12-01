@@ -65,10 +65,27 @@ python -m src.run_block_agents --config configs/config_example.json
 - **Multiple instruction types**: Truthful, neutral, strategic
 - **LLM query logging**: All queries logged to `results/*_llm_queries.log`
 - **Configurable experiments**: Use JSON config files or CLI arguments
+- **Vector steering**: Activation steering experiments to study strategic manipulation (see `STEERING_USAGE.md`)
+
+## Vector Steering Experiments
+
+Run activation steering experiments to study how strategicness affects voting behavior:
+
+```bash
+# Step 1: Extract steering vector
+modal run steering_vectors/scripts/modal_extract_steering_vector.py
+
+# Step 2: Apply steering with varying coefficients
+modal run steering_vectors/scripts/modal_apply_steering.py
+```
+
+See `steering_vectors/documentation/STEERING_USAGE.md` for detailed instructions.
 
 ## Documentation
 
-See `docs/QUICK_START.md` for quick start guide.
+- `docs/QUICK_START.md` - Quick start guide for basic experiments
+- `STEERING_USAGE.md` - Guide for vector steering experiments
+- `STEERING_SETUP.md` - Setup and overview of vector steering
 
 ## Results
 
